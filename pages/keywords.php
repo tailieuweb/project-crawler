@@ -53,46 +53,41 @@ if(!isset($_SESSION['id']))
 <div id="wraper">
 <?php include_once 'menu.php'; ?>
 <div id="content">
-            <div id="add">
-                <center>
-                    <form action="" method="POST" id="add_keyword">
-                        <label>Keyword: </label>
-                        <input type="text" name="keyword"/>
-                        <label>Category : </label>
-                        <select name="id_categories">
-                            <?php foreach ($categories as $item): ?>
-                            <option value="<?php echo $item['id']; ?>"><?php echo $item['name']; ?></option>   
-                            <?php endforeach; ?>
-                        </select>
-                        <input type="submit" name="submit" value="Add">
-                    </form>
-                </center>
-            </div>
-        <?php if (isset($_POST["submit"])):?>
-                <?php
-                    if(!empty($_POST["keyword"])):
-                        $params = array(
-                                    "name" => $_POST["keyword"],
-                                    "id_categories" => $_POST["id_categories"],
-                            );
-                        $insert = $md_keywords->insert($params);
-                ?>
-                    <div class='notice'><div class='child'><?php $md_keywords->notice($insert) ?></div></div>;       
-                <?php else:?>
-                    <div class="notice_erro"><div class="child">Data empty !</div></div>
-                <?php endif;?>
-        <?php endif;?>
+    <div id="add">
+        <center>
+            <form action="" method="POST" id="add_keyword">
+                <label>Keyword: </label>
+                <input type="text" name="keyword"/>
+                <label>Category : </label>
+                <select name="id_categories">
+                    <?php foreach ($categories as $item): ?>
+                    <option value="<?php echo $item['id']; ?>"><?php echo $item['name']; ?></option>   
+                    <?php endforeach; ?>
+                </select>
+                <input type="submit" name="submit" value="Add">
+            </form>
+        </center>
+    </div>
+    <?php if (isset($_POST["submit"])):?>
+            <?php
+                if(!empty($_POST["keyword"])):
+                $params = array("name" => $_POST["keyword"], "id_categories" => $_POST["id_categories"]);
+                $insert = $md_keywords->insert($params);
+            ?>
+                <div class='notice'><div class='child'><?php $md_keywords->notice($insert) ?></div></div>;       
+            <?php else:?>
+                <div class="notice_erro"><div class="child">Data empty !</div></div>
+            <?php endif;?>
+    <?php endif;?>
         <div id="thongbao"></div>
         <?php            
             $page = 1;
             $params=null;
+            $getId = '';
             if (!empty($_GET['page']))
                 $page =$_GET['page'];
-            if(isset($_GET['id_categories']))
-                        $params = array(
-                                    "id_categories" => $_GET["id_categories"],
-                            );
-            $list = $md_keywords->select($params,$page,FALSE);
+            if(isset($_GET['id_categories']))  $params = array("id_categories" => $_GET["id_categories"]);
+            $list = $md_keywords->select($params=null, $page,FALSE);
             $total_keywords = $md_keywords->select($params,$page,true);
             $total_keywords=$total_keywords[0]['counter'];
        ?> 
@@ -132,20 +127,24 @@ if(!isset($_SESSION['id']))
                 <td class="title"> Operation</td>
                 <td class="title"> Status</td>  
             </tr>
-            <?php var_dump($categories); ?>
             <?php foreach ($list as $item): ?>
                 <tr>
                     <td class="show_name"><?php echo $item["name"]; ?></td>
-                    <?php  var_dump($item); ?>
-                    <td class="show_name"><?php echo $categories[$item["id_categories"]-1]['name']; ?></td>
+                   
+                    <td class="show_name">
+                    <?php
+                        $id_categories = $_GET['id_categories']? 0 : 1;
+                        echo $categories[$id_categories]['name']; 
+                    ?>
+                    </td>
                     <td class="infor_show">
                         <a href="edit_keywords.php?id=<?php echo $item["id"];?>" class="edit">Edit</a>
                         <a href="delete_keywords.php?id=<?php echo $item["id"];?>" class="delete">Delete</a>
                     </td>
                     <td>
                         <form method="get" id="<?php echo $item["id"];?>">
-                            <input type="radio" value="1" name="status" class="enable" <?php if($item["status"]==1) echo "checked='checked'"?> onchange="if(this.checked) enable('?id=<?php echo $item['id'];?>&name_site=keywords.php&status='+this.value);"> Enable
-                            <input type="radio" value="0" name="status" class="disable" <?php if($item["status"]==0) echo "checked='checked'"?> onchange="if(this.checked) disable('?id=<?php echo $item['id'];?>&name_site=keywords.php&status='+this.value);"> Disable
+                            <input type="radio" value="1" name="status" class="enable" <?php if($categories[$id_categories]["status"]==1) echo "checked='checked'"?> onchange="if(this.checked) enable('?id=<?php echo $item['id'];?>&name_site=keywords.php&status='+this.value);"> Enable
+                            <input type="radio" value="0" name="status" class="disable" <?php if($categories[$id_categories]["status"]==0) echo "checked='checked'"?> onchange="if(this.checked) disable('?id=<?php echo $item['id'];?>&name_site=keywords.php&status='+this.value);"> Disable
                         </form>
                     </td>
                 </tr>

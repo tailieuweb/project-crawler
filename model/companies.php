@@ -25,28 +25,25 @@ class companies extends DB {
      
     }
 
-    public function insert($companies) {      
+    public function insert($companies) {  
         $flag = $this->hasCompanies($companies['name']); 
         if (empty($flag)) {
             $query = 'INSERT INTO '.$this->_table_name.'(
                                         name,
                                         website,
-                                        phones,
+                                        description,
                                         address,
-                                        status,
-                                        notes,
-                                        description
+                                        status
                                         )'.
                 'VALUES('.
-                        '"'.mysqli_escape_string($companies['name']).'",'.
-                        '"'.mysqli_escape_string($companies['website']).'",'.
-                        '"'.mysqli_escape_string($companies['phones']).'",'.
-                        '"'.mysqli_escape_string($companies['address']).'",'.
-                        '"'.mysqli_escape_string($companies['status']).'",'.
-                        '"'.mysqli_escape_string($companies['notes']).'",'.
-                        '"'.mysqli_escape_string($companies['description']).'"'
+                        '"'.mysqli_escape_string(self::$_connection,$companies['name']).'",'.
+                        '"'.mysqli_escape_string(self::$_connection,$companies['website']).'",'.
+                        '"'.mysqli_escape_string(self::$_connection,$companies['description']).'",'.
+                        '"'.mysqli_escape_string(self::$_connection,$companies['address']).'",'.
+                        '"'.mysqli_escape_string(self::$_connection,$companies['status']).'"'
                         .')';
                 $this->isEmpty($companies);
+                var_dump($query); die();
             return $this->query($query);
         } else {
             return NULL;
@@ -54,7 +51,7 @@ class companies extends DB {
     }
     public function hasCompanies($name) {
         $query = 'SELECT name FROM ' . $this->_table_name . '
-                  WHERE name like "' . mysqli_real_escape_string($name) . '"';
+                  WHERE name like "' . mysqli_real_escape_string(self::$_connection,$name) . '"';
         $results = $this->query($query);
         $row = mysqli_fetch_assoc($results);
         return $row;
@@ -71,7 +68,7 @@ class companies extends DB {
                 $fields = 'count(*) AS counter';
                 $limit='';
             }
-        $query="SELECT $fields FROM works ORDER BY posted_date DESC ".$limit;
+        $query="SELECT $fields FROM " . $this->_table_name . " " .$limit;
         $results=$this->query($query);
         $companies=array();
         while ($row = mysqli_fetch_assoc($results))

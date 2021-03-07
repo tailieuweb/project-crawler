@@ -13,7 +13,7 @@ require_once '../model/db.php';
 require_once '../model/works.php';
 require_once '../model/keywords.php';
 require_once '../model/keys_works.php';
-require_once '../pages/Sites.php';
+require_once '../model/Sites.php';
 $words=new Works();
 ?>
 <?php 
@@ -41,6 +41,7 @@ $words=new Works();
     else 
         echo "<div class='notice_erro'>Erro update !</div>";
     endif;
+//////
 $list_works=$words->select(array('listId_works'=>$_GET["id"]),NULL,FALSE);
 ?> 
 <form action="" method="POST">
@@ -55,6 +56,7 @@ $list_works=$words->select(array('listId_works'=>$_GET["id"]),NULL,FALSE);
         <?php foreach ($list_works as $item): ?>
         <tr>
             <td class="title">Name: </td>
+            <?php var_dump($item); die(); ?>
             <td><input type="text" name="name" value="<?php echo $item["name"];?>"></td>
         </tr>
          <tr>
@@ -63,7 +65,7 @@ $list_works=$words->select(array('listId_works'=>$_GET["id"]),NULL,FALSE);
         </tr>
         <tr>
             <td class="title">Company - Name: </td>
-            <td><input type="text" name="company_name" value="<?php echo $item["company_name"];?>"></td>
+            <td><input type="text" name="company_name" value="<?php echo $item["name"];?>"></td>
         </tr>
         <tr>
             <td class="title">Company - Localtion: </td>
@@ -71,11 +73,12 @@ $list_works=$words->select(array('listId_works'=>$_GET["id"]),NULL,FALSE);
         </tr>
         <tr>
             <td class="title">Company - Address: </td>
-            <td><input type="text" name="company_dress" value="<?php echo $item["company_address"];?>"></td>
+            <?php var_dump($item); die();  ?>
+            <td><input type="text" name="company_dress" value="<?php echo $item["address"];?>"></td>
         </tr>
         <tr>
             <td class="title">Company - Profile: </td>
-            <td><textarea cols="5" name="company_profile"><?php echo $item["company_profile"];?></textarea></td>
+            <td><textarea cols="5" name="company_profile"><?php echo $item["description"];?></textarea></td>
         </tr>
         <tr>
             <td class="title">Description: </td>

@@ -43,9 +43,9 @@ class Keywords extends DB {
     public function select($params=null,$page=null,$counter=FALSE) {
         $where="WHERE (1) ";
             if(!empty($params["id"]))
-                $where.=" AND id=".$params['id'];
+                $where.=" AND id=".$params['id_categories'];
             if(!empty($params["id_categories"]))
-                $where.=" AND id_categories=".$params['id_categories'];
+                $where.=" AND id=".$params['id_categories'];
         $limit='';
             if(!empty($page)){
                 $start=($page-1)*PER_PAGE;
@@ -57,6 +57,7 @@ class Keywords extends DB {
                 $limit='';
             }
         $query = "SELECT  $fields FROM " . $this->_table_name .' '.$where. ' ORDER BY ID DESC '.$limit;
+        // var_dump($query);die();
         $keywords = array();
         $data = $this->query($query);
         while ($row = mysqli_fetch_assoc($data)) {

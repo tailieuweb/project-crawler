@@ -185,6 +185,7 @@ class Works extends DB {
     }
 
     public function select($params = NULL, $page = NULL,$counter=FALSE) {
+
         $works = array();
         //Where
                 $where = "WHERE ( 1 )";
@@ -216,7 +217,34 @@ class Works extends DB {
         $query = "SELECT $fields FROM $this->_table_name 
                   $where
                   $limit";
-        //Query data
+
+       
+        $results = $this->query($query);
+        while ($row = mysqli_fetch_assoc($results)) {
+            $works[] = $row;
+        }
+        return $works;
+    }
+    
+    public function selectAll() {
+        $works = array();
+        
+        $limit = '';
+        if (!empty($page)) {
+            $start = ($page - 1) * PER_PAGE;
+            $limit = "LIMIT $start,".PER_PAGE;
+        } 
+        //Fields
+        $fields = '*';
+
+        $query = "SELECT wlc.name, wc.name as namecompany, wc.address, wc.description, wr.requirements
+                FROM default_work_companies as wc
+                INNER JOIN default_work_recruitments as wr
+                ON wc.id = wr.id_companies
+                INNER JOIN default_work_all_categories as wlc
+                ON wr.id_categories = wlc.id
+                $limit";
+
         $results = $this->query($query);
         while ($row = mysqli_fetch_assoc($results)) {
             $works[] = $row;

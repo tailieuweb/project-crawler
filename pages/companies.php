@@ -81,16 +81,16 @@ $paginations=new pagination();
         <tr>
             <td class="title com_name">Name</td>
             <td class="title com_address">Address</td>
-            <td class="title com_profile">Profile</td>          
+            <td class="title com_profile">Description</td>          
             <td class="title com_operation">Operation</td>            
         </tr>
         <?php if(!empty($list)):?>
         <?php foreach ($list as $item): ?>
         <tr>
-            <td class="show_name com_name" style="width: 250px"><?php echo $item["company_name"];?></td>
-            <td class="com_address"><?php echo $item["company_address"];?></td>
-            <td class="com_profile" style="width: 450px;"><?php echo $item["company_profile"];?></td>
-            <td class="infor_show com_operation" style="ưidth:60px"> 
+            <td class="show_name com_name" style="width: 250px"><?php echo $item["name"];?></td>
+            <td class="com_address"><?php echo $item["address"];?></td>
+            <td class="com_profile" style="width: 450px;"><?php echo $item["description"];?></td>
+            <td class="infor_show com_operation" style="width:60px"> 
                 <a href="edit_works.php?id=<?php echo $item["id"];?>" class="edit" title="edit works">Edit</a> 
                 <a href="delete_works.php?id=<?php echo $item["id"];?>" class="delete" title="delete company">Delete</a>
             </td>   

@@ -82,10 +82,10 @@ if (isset($_POST['submit_export_excel'])) {
                                         //view show_log;
                                             "listId_works" => !empty($list_works) ? $list_works[0]['id_works'] : NULL,
                     );
-                    $list = $works->select($params, $page,FALSE);
+                    $list = $works->selectAll($params, $page,FALSE);
                     //Counter
                     $totalworks = $works->select($params, null, TRUE);
-                    $totalworks = (int) $totalworks[0]['counter'];
+                    $totalworks = count($totalworks); 
                 ?>
                 <?php include "../form/works_form.php"; ?>
                 <div id="search">
@@ -148,20 +148,21 @@ if (isset($_POST['submit_export_excel'])) {
                         </tr>
                         <?php if (!empty($list)): $count = 0; ?>
                             <?php foreach ($list as $item): $count++; ?>
+                             
                                 <tr <?php if ($count % 2 != 0) echo "class='enable'"; ?>>
                                     <td class="name">
                                         <a href="<?php echo $item["url"]; ?>" target="_blank">
-                                            <?php echo $item["category_name"]; ?>
+                                            <?php echo $item["name"]; ?>
                                         </a>
                                     </td>
-                                    <td class="infor_show"><?php echo $item["company_name"]; ?></td>
-                                    <td class="infor_show"><?php echo $item["location"]; ?></td>
+                                    <td class="infor_show"><?php echo $item["namecompany"]; ?></td>
+                                    <td class="infor_show"><?php echo $item["address"]; ?></td>
 
                                     <td class="infor_show">
                                         <?php echo substr($item["description"], 0, 200); ?>
                                     </td>
-                                    <td class="infor_show"><?php echo substr($item["experience_requirements"], 0, 200); ?></td>
-                                    <td class="infor_show"><?php echo date("d/m/Y", $item["posted_date"]); ?></td>
+                                    <td class="infor_show"><?php echo substr($item["requirements"], 0, 200); ?></td>
+                                    <td class="infor_show"><?php echo date("d/m/Y", '17/02/1996'); ?></td>
                                     <td class="infor_show"> 
                                         <a href="edit_works.php?id=<?php echo $item["id"]; ?>" class="edit" title="edit work"> Edit</a>
                                         <a href="view_works.php?id=<?php echo $item["id"]; ?>" class="view" title="view work"> View</a>
