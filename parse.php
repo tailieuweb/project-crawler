@@ -1,11 +1,14 @@
 <?php 
 
-if(isset($_POST['submit'])) {
-    preg_match_all($_POST['pre'], $_POST['content'], $out);
+$pattern = '/user-gravatar32[\S\s]*?<img.*?src="(.*?)"/';
+$content = file_get_contents('http://localhost/project-crawler/tagged.html');
+preg_match_all($pattern, $content, $out);
+var_dump($out);
+
+// if(isset($_POST['submit'])) {
     
-    var_dump($out);
     
-}
+// }
 
 ?>
 <!DOCTYPE html>
@@ -17,10 +20,10 @@ if(isset($_POST['submit'])) {
     <title>Document</title>
 </head>
 <body>
-    <form action="" method="post">
-        <input type="text" name="pre" id="" value="/title.*?last 7 days.*?>(.*?)this week<\/a>/"><br><br>
-        <textarea name="content" id="" cols="30" rows="10" value="<?php echo file_get_contents('https://stackoverflow.com/tags'); ?>"></textarea>
+    <!-- <form action="" method="post">
+        <input type="text" name="pre" id="" value="/summary[\S\s]*?<a.*?question-hyperlink.>(.*?)<\/a>/"><br><br>
+        <textarea name="content" id="" cols="30" rows="10" value="<?php echo file_get_contents('https://stackoverflow.com/questions/tagged/angular'); ?>"></textarea>
         <input type="submit" value="Submit" name="submit">
-    </form>
+    </form> -->
 </body>
 </html>
