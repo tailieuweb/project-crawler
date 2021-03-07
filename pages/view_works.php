@@ -83,7 +83,7 @@ require_once '../model/db.php';
 require_once '../model/works.php';
 require_once '../model/keywords.php';
 require_once '../model/keys_works.php';
-require_once '../pages/Sites.php';
+require_once '../sites/Sites.php';
 $words=new Works();
 ?>
 <?php $item=$words->select(array("listId_works"=>$_GET["id"]),NULL.FALSE);?>

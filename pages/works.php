@@ -9,7 +9,7 @@ require_once '../model/keywords.php';
 require_once '../model/keys_works.php';
 require_once '../model/pagination.php';
 require_once '../model/show_log.php';
-//require_once '../pages/Sites.php';
+require_once '../sites/Sites.php';
 $works = new Works();
 $show_log=new show_log();
 if (isset($_POST['submit_export_excel'])) {
@@ -151,7 +151,7 @@ if (isset($_POST['submit_export_excel'])) {
                                 <tr <?php if ($count % 2 != 0) echo "class='enable'"; ?>>
                                     <td class="name">
                                         <a href="<?php echo $item["url"]; ?>" target="_blank">
-                                            <?php echo $item["name"]; ?>
+                                            <?php echo $item["category_name"]; ?>
                                         </a>
                                     </td>
                                     <td class="infor_show"><?php echo $item["company_name"]; ?></td>

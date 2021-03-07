@@ -5,6 +5,7 @@ require_once '../model/patterns_model.php';
 //variables decleration
 $obj = new Sites_model();
 $sites = $obj->get_sites(true);
+var_dump($sites);
 $model = new Patterns_model();
 $patterns_name=array();
 
@@ -82,7 +83,15 @@ if(isset($_POST['submit_all'])){
     </head>
 
     <body>
-        
+        <form action="">
+            <input type="text" name="" id="" placeholder="regular">
+            <select name="" id="">
+                <option>file 1</option>
+                <option>file 2</option>
+                <option>file 3</option>
+            </select>
+            <textarea name="" id="" cols="30" rows="10"></textarea>
+        </form>
         <form action="#" method="POST">
             
             <!--List of sites-->

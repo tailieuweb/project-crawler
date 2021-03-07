@@ -43,7 +43,7 @@ if(!isset($_SESSION['id']))
         require_once '../model/keywords.php';
          require_once '../model/categories.php';
         require_once '../model/pagination.php';
-        require_once '../pages/Sites.php';
+        require_once '../sites/Sites.php';
         $md_keywords = new keyWords();
         $md_categories=new categories();
         $categories=$md_categories->select(NULL,NULL,FALSE);
@@ -57,13 +57,13 @@ if(!isset($_SESSION['id']))
                 <center>
                     <form action="" method="POST" id="add_keyword">
                         <label>Keyword: </label>
-                            <input type="text" name="keyword"/>
+                        <input type="text" name="keyword"/>
                         <label>Category : </label>
-                            <select name="id_categories">
-                                <?php foreach ($categories as $item): ?>
-                                <option value="<?php echo $item['id']; ?>"><?php echo $item['name']; ?></option>   
-                                <?php endforeach; ?>
-                            </select>
+                        <select name="id_categories">
+                            <?php foreach ($categories as $item): ?>
+                            <option value="<?php echo $item['id']; ?>"><?php echo $item['name']; ?></option>   
+                            <?php endforeach; ?>
+                        </select>
                         <input type="submit" name="submit" value="Add">
                     </form>
                 </center>
@@ -132,9 +132,11 @@ if(!isset($_SESSION['id']))
                 <td class="title"> Operation</td>
                 <td class="title"> Status</td>  
             </tr>
+            <?php var_dump($categories); ?>
             <?php foreach ($list as $item): ?>
                 <tr>
                     <td class="show_name"><?php echo $item["name"]; ?></td>
+                    <?php  var_dump($item); ?>
                     <td class="show_name"><?php echo $categories[$item["id_categories"]-1]['name']; ?></td>
                     <td class="infor_show">
                         <a href="edit_keywords.php?id=<?php echo $item["id"];?>" class="edit">Edit</a>

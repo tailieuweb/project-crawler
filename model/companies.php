@@ -1,7 +1,7 @@
 <?php
 class companies extends DB {
 
-    private $_table_name = 'companies';//TODO
+    private $_table_name = 'default_work_companies';//TODO
     private $_query = '';
 
     public function __construct() {

@@ -26,7 +26,7 @@ if(!isset($_SESSION['id']))
                 font-weight: bold;
             }
             #total_crawl h3{  
-                //border-bottom: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
                 padding: 3px 3px 3px 20px;
                 font-size: 16px;
                 
@@ -41,7 +41,7 @@ if(!isset($_SESSION['id']))
                 border-top: 1px solid #eee;
             }
             #total_crawl td{
-               // border: 1px solid #eee;
+               border: 1px solid #eee;
                
                 border-right: 1px solid #eee;
                  border-bottom: 1px solid #eee;

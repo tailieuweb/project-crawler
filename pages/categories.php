@@ -40,7 +40,7 @@ if(!isset($_SESSION['id']))
     require_once '../model/keywords.php';
     require_once '../model/categories.php';
     require_once '../model/pagination.php';
-    require_once '../pages/Sites.php';
+    require_once '../sites/Sites.php';
     $md_categories = new categories();
     $paginations =new pagination();
 ?>
@@ -102,6 +102,7 @@ if(!isset($_SESSION['id']))
                         <td class="title"> Status</td>  
                     </tr>
                     <?php foreach ($list as $item): ?>
+
                         <tr>
                             <td class="show_name"><?php echo $item["name"]; ?></td>
                             <td class="infor_show">
@@ -109,8 +110,8 @@ if(!isset($_SESSION['id']))
                             </td>
                             <td>
                                 <form method="get" id="<?php echo $item["id"];?>">
-                                    <input type="radio" value="1" name="status" class="enable" <?php if($item["status"]==1) echo "checked='checked'"?> onchange="if(this.checked) enable('?id=<?php echo $item['id'];?>&name_site=categories.php&status='+this.value);"> Enable
-                                    <input type="radio" value="0" name="status" class="disable" <?php if($item["status"]==0) echo "checked='checked'"?> onchange="if(this.checked) disable('?id=<?php echo $item['id'];?>&name_site=categories.php&status='+this.value);"> Disable
+                                    <input type="radio" value="1" name="status" class="enable" <?php if($item["status"]==1) echo "checked='checked'"?> onchange="if(this.checked) enable('?id=<?php echo $item['id'];?>&name_site=categories.php&status='+this.value);"> Enable>
+                                    <input type="radio" value="0" name="status" class="disable" <?php if($item["status"]==0) echo "checked='checked'"?> onchange="if(this.checked) disable('?id=<?php echo $item['id'];?>&name_site=categories.php&status='+this.value);"> Disable>
                                 </form>
                             </td>
                         </tr>

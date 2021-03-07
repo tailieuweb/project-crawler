@@ -34,7 +34,7 @@ require_once '../model/works.php';
 require_once '../model/keywords.php';
 require_once '../model/companies.php';
 require_once '../model/pagination.php';
-require_once '../pages/Sites.php';
+require_once '../sites/Sites.php';
 $companies=new companies();
 $paginations=new pagination();
 ?>

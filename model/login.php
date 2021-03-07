@@ -22,9 +22,10 @@ class Login extends DB{
             $where.=' AND username="'.$params['name'].'"';
         $query='SELECT * FROM '.$this->table_name.$where;
         $result = mysqli_query(DB::$_connection, $query);
+        var_dump($result);
         if(!empty($result)){
             $user = mysqli_fetch_assoc($result);
-            if(strcmp($user['password'],md5 ($params['pass']))==0){
+            if(strcmp($user['password'],$params['pass'])==0){
                 return $user;
             }
         }

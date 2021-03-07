@@ -2,21 +2,21 @@
 
 class categories extends DB{
     
-    private $_table_name="categories";
+    private $_table_name="default_work_categories";
     
     public function __construct() {
         parent::getConnection();
     }
      public function notice($test) {
         if ($test != null)
-            echo SUCCESS;
+            echo 'SUCCESS';
         else
-            echo FAIL;
+            echo 'FAIL';
     }
 
     public function hasKeyword($params) {
         $query = 'SELECT name FROM ' . $this->_table_name . '
-                  WHERE name like "' . mysqli_real_escape_string($params['name_categories']) . '"';
+                  WHERE name like "' . mysqli_real_escape_string(self::$_connection,$params['name_categories']) . '"';
         $results = $this->query($query);
         $row = mysqli_fetch_assoc($results);
         return $row;        
@@ -34,7 +34,7 @@ class categories extends DB{
             return NULL;
         }
     }
-    
+    //
     public function select($params=null,$page=null,$counter=FALSE) {
         $where="WHERE (1) ";
             if(!empty($params["id"]))
@@ -57,13 +57,14 @@ class categories extends DB{
         }
         return $rows;
     }
-    
+    //
      public function updates($params=NULL) {
+         var_dump($params);
         $set_values="" ;
             if(!isset($params['status'])){ 
                 $flag = $this->hasKeyword($params);
                     if (empty($flag))
-                        $set_values.="name='" .mysqli_escape_string ($params['name_categories']) . "'";
+                        $set_values.="name='" .mysqli_escape_string (self::$_connection,$params['name_categories']) . "'";
             }
             else
                 $set_values.="status=". $params['status'];

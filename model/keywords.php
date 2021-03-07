@@ -2,7 +2,7 @@
 require_once 'db.php';
 class Keywords extends DB {
 
-    private $_table_name = 'keywords';
+    private $_table_name = 'default_keywords';
     private $_query = '';
 
     public function __construct() {

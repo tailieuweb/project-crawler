@@ -25,7 +25,7 @@
     require_once '../model/works.php';
     require_once '../model/keywords.php';
     require_once '../model/categories.php';
-    require_once '../pages/Sites.php';
+    require_once '../model/Sites.php';
     include_once 'menu.php';
     $md_keywords=new keyWords();
     $md_categories=new categories();
@@ -36,16 +36,14 @@
             if(isset($_GET["id"]))
                 $params=array('id'=>$_GET["id"]);
     ?>
-    <?php if (!empty($_POST["submit"])): ?>
-            <?php
-            $params = array("id" => $_GET["id"],
-                            "name_categories" => $_POST["name_categories"],);
-            $update=$md_categories->updates($params);
-            ?>
+    <?php if (!empty($_POST["submit"])): 
+    $params = array("id" => $_GET["id"], "name_categories" => $_POST["name_categories"],);
+    $update=$md_categories->updates($params);
+    ?>
             <?php if (!empty($update)): ?>
-    <div class="notice"><div class="child"><?php echo  SUCCESS ?></div></div>;
+    <div class="notice"><div class="child"><?php echo  "SUCCESS" ?></div></div>;
             <?php else :?> 
-    <div class="notice_erro"><div class="child"><?php echo FAIL; ?></div></div>;
+    <div class="notice_erro"><div class="child"><?php echo "FAIL"; ?></div></div>;
             <?php endif; ?>
     <?php endif; ?>               
     <?php $categories=$md_categories->select($params,NULL,FALSE);?>
