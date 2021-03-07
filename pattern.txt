@@ -1,0 +1,49 @@
+https://stackoverflow.com/tags
+
+1. get title: /grid--cell[\S\s]*?<a.*?post-tag.*?>(.*?)<\/a>/
+2. content short: /s-card[\S\s]*?<div.*?v-truncate4.*?>([\S\s]*?)<\/div>/
+3. count questions: /fc-black-400[\S\s]*?<div.*?grid--cell.*?>([\S\s]*?)<\/div>/
+4. asked today: /title.*?last 24 hours.*?>(.*?)asked today<\/a>/
+5.this week: /title.*?last 7 days.*?>(.*?)this week<\/a>/ 
+6. link tag: /grid--cell[\S\s]*?<a href="(.*?)".*?post-tag/
+7. pagination max: /title.*?Go to page 1787.*?>(.*?)<\/a>/
+
+
+https://stackoverflow.com/questions/tagged/javascript
+
+1.title: /summary[\S\s]*?<a.*?question-hyperlink.*?>(.*?)<\/a>/
+2. description: /summary[\S\s]*?<div.*?excerpt.*?>([\S\s]*?)<\/div>/
+3.votes: /vote-count-post [\S\s]*?<strong.*?>(.*?)<\/strong>/
+4. answer: /status[\S\s]*?<strong.*?>(.*?)<\/strong>/
+5. views: /statscontainer[\S\s]*?<div.*?views.*?>([\S\s]*?)<\/div>/
+
+ user detail
+avarta: /user-gravatar32[\S\s]*?<img.*?src="(.*?)"/
+6. name author:  /user-details[\S\s]*?<a.*?.*?>(.*?)<\/a>/
+    time asked:  /<span.*?relativetime.*?>(.*?)<\/span>/
+7.
+  7.1 : score: /-flair[\S\s]*?<span.*?reputation-score.*?>(.*?)<\/span>/
+  7.2: gold: /-flair[\S\s]*?<span.*?gold.*?><span.*?badgecount.*?>(.*?)<\/span><\/span>/
+  7.3:  silver: /-flair[\S\s]*?<span.*?silver.*?><span.*?badgecount.*?>(.*?)<\/span><\/span>/
+  7.4: bronze:  /-flair[\S\s]*?<span.*?bronze.*?><span.*?badgecount.*?>(.*?)<\/span><\/span>/
+
+
+https://stackoverflow.com/questions/66508977/block-a-loop-from-proceeding-until-function-completes
+1. title: https://stackoverflow.com/questions/66508977/block-a-loop-from-proceeding-until-function-completes
+2. content: /postcell[\S\s]*?<div.*?s-prose.*?>([\s\S]*?)<\/a>/
+3.vote: /votecell[\s\S]*?<div.*?js-vote-count.*?>([\s\S*?])<\/div>/
+4. avarta:: /gravatar-wrapper-32[\S\s]*?<img.*? src="(.*?)"/
+
+ANSWER
+id answer: /answers[\s\S]*?<div\sid="answer-(.*?)"/
+content answer: /answers[\s\S]*?<div.*?answercell.*?>([\s\S]*?)<\/div>/
+user detail answer: 
+       - reputation-score: /-flair[\S\s]*?<span.*?reputation-score.*?>(.*?)<\/span>/
+       - bold: /-flair[\S\s]*?<span.*?gold.*?><span.*?badgecount.*?>(.*?)<\/span><\/span>/
+       - silver: 
+comment chỉ lấy được thông tin comment đầu tiên
+       content: /<span.*?comment-copy.*?>([\s\S]*?)<\/span>/
+       id: /<li.*?data-comment-id="(.*?)"/
+       count comment:  /<span.*?commentCount.*?>(.*?)<\/span>/
+       user comment:  /<a[\S\s]*?comment-user.*?>(.*?)<\/a>/
+       time comment: /<span.*?relativetime-clean.*?>(.*?)<\/span>/
