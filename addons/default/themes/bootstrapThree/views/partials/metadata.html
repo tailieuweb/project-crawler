@@ -1,0 +1,54 @@
+<meta charset="utf-8">  
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<base href="{{ url:base }}"/>
+
+{{ theme:favicon file="favicons/favicon.ico"}}
+{{ theme:favicon file="favicons/apple-touch-icon.png" rel="apple-touch-icon" }}
+{{ theme:favicon file="favicons/apple-touch-icon-precomposed.png" rel="apple-touch-icon" }}
+{{ theme:favicon file="favicons/apple-touch-icon-57x57-precomposed.png" rel="apple-touch-icon" }}
+{{ theme:favicon file="favicons/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon" }}
+{{ theme:favicon file="favicons/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon" }}
+
+<!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+{{ asset:css file="bootstrap.min.css" }}
+{{ asset:css file="style.css" }}
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700,800|Open+Sans+Condensed:300,700|Prata&subset=vietnamese' rel='stylesheet' type='text/css'>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lte IE 9]>
+    {{ asset:css file="ie.css" }}
+    <![endif]-->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      {{ asset:js file="respond.min.js" }}
+    <![endif]-->
+{{ asset:css file="responsive-slider.css" }}
+
+
+{{ asset:css file="select2.css" }}
+{{ asset:css file="select2-bootstrap.css" }}
+{{ asset:css file="front.css" }}
+{{ asset:css file="core.css" }}
+{{ asset:css file="blocks.css" }}
+{{ asset:css file="custom.css" }}
+{{ asset:css file="jquery-ui.css" }}
+
+
+{{ asset:js file="jquery.min.js" }}
+{{ asset:js file="bootstrap.min.js" }}
+{{ asset:js file="select2.min.js" }}
+{{ asset:js file="select2_locale_vi.js" }}
+{{ asset:js file="custom.js" }}
+{{ asset:js file="jquery-ui.js" }}
+{{ asset:render }}
+{{ template:metadata }}
+<title>{{ template:title }}</title>

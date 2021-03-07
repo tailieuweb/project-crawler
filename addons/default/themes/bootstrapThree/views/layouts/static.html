@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+    <head>
+        {{ theme:partial name="metadata" }}
+    </head>
+    <body>
+
+        {{ theme:partial name="topnavbar" }}
+
+        {{ theme:partial name="header" }}
+
+        <div id="container" class="container">
+            <div class="container">
+                
+                {{ session:messages success="alert alert-success" notice="alert alert-block" error="alert alert-error" }}
+                
+                {{ theme:partial name="breadcrumbs"}}
+            </div>
+        </div>
+        
+        <div class="container detail">
+            <div id="main">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            {{ template:body }}
+                        </div>
+                        <div class="col-md-4">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ theme:partial name="footer" }}
+    </body>
+</html>

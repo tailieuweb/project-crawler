@@ -1,0 +1,9 @@
+.footer-top .back-top-content {
+	text-indent:-9999px;
+	background:url(../images/icons/top.png) no-repeat center center;
+	border:none;
+	display:block;
+	width:35px;
+	height:35px;
+	float:right;
+}

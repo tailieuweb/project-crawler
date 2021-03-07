@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+        {{ theme:partial name="metadata" }}
+    </head>
+    <body>
+        {{ theme:partial name="topnavbar" }}
+        
+        <div class="container">
+            <div class="part_content">
+                {{ theme:partial name="menu" }}
+                <div class="row row-offcanvas row-offcanvas-right">
+                        {{ session:messages success="alert alert-success" notice="alert alert-block" error="alert alert-error" }}
+                        {{ theme:partial name="breadcrumbs"}}
+                        {{ template:body }}
+                </div>
+            </div>
+        </div>
+        {{ theme:partial name="footer" }}
+    </body>
+</html>

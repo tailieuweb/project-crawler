@@ -1,0 +1,13 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-04-01 00:26:26 --> Severity: Notice  --> Undefined variable: params K:\wamp\www\works\trunk\addons\shared_addons\modules\contents\controllers\admin_locations.php 41
+ERROR - 2016-04-01 00:26:26 --> Severity: Warning  --> array_merge(): Argument #1 is not an array K:\wamp\www\works\trunk\addons\shared_addons\modules\contents\controllers\admin_locations.php 41
+ERROR - 2016-04-01 00:30:53 --> Severity: Notice  --> Undefined variable: params K:\wamp\www\works\trunk\addons\shared_addons\modules\contents\controllers\admin_locations.php 41
+ERROR - 2016-04-01 00:30:53 --> Severity: Warning  --> array_merge(): Argument #1 is not an array K:\wamp\www\works\trunk\addons\shared_addons\modules\contents\controllers\admin_locations.php 41
+ERROR - 2016-04-01 00:36:55 --> Severity: Notice  --> Undefined variable: params K:\wamp\www\works\trunk\addons\shared_addons\modules\contents\controllers\admin_locations.php 41
+ERROR - 2016-04-01 00:36:55 --> Severity: Warning  --> array_merge(): Argument #1 is not an array K:\wamp\www\works\trunk\addons\shared_addons\modules\contents\controllers\admin_locations.php 41
+ERROR - 2016-04-01 00:47:37 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
+ERROR - 2016-04-01 00:47:37 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
+ERROR - 2016-04-01 00:47:37 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
+ERROR - 2016-04-01 00:47:37 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
+ERROR - 2016-04-01 00:47:37 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419

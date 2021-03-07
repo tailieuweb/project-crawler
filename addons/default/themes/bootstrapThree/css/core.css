@@ -1,0 +1,27 @@
+
+
+/*-----------default INDEX.PHP --------- */
+.float-left{ float: left;}
+.float-right{ float:right }
+.clear{
+    clear: both;
+}
+.content_child{margin: 10px;}
+.label_title{background: #eee; color: #333; font-weight: bold; padding: 5px 0px;}
+/* -------content -------------------*/
+#content{
+   width: 100%;  
+}
+#col_left{
+    width: 70%;
+}
+#col_right{
+    width: 30%;
+}
+
+/*------------#work -----------*/
+
+
+
+
+

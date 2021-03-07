@@ -1,0 +1,30 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-02-14 07:24:43 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:24:51 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:24:53 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:24:54 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:25:32 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:25:35 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:25:35 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:25:41 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:25:41 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:25:41 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:26:15 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:26:16 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:26:16 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:26:18 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:26:19 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:26:19 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:11 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:12 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:12 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:21 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:21 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:22 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:24 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:25 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:25 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:31 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:32 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272
+ERROR - 2017-02-14 07:28:32 --> Severity: Notice  --> Only variable references should be returned by reference K:\wamp\www\works\trunk\system\codeigniter\core\Common.php 272

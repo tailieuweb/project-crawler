@@ -1,0 +1,59 @@
+<div class="navbar navbar-inverse" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ url:site }}" style="
+    font-size: 14px;
+    font-weight: normal;
+"><span></span>Trang chủ</a>
+        </div>
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="menu-start">
+                    <a href="{{ url:site }}gioi-thieu">Giới thiệu</a>
+                </li>
+                <!-- Tin tức - Sự kiện-->
+                <li class="dropdown">
+                    <a href="{{ url:site }}pages/news" data-toggle="dropdown" class="dropdown-toggle">
+                        Tin tức - Sự kiện
+                    </a>
+                    <ul class="dropdown-menu" id="news_event_menu">
+                        <li><a href="{{ url:site }}tin-tuc">Tin tức</a></li>
+                        <li class="child-menu-end"><a href="{{ url:site }}su-kien">Sự kiện</a></li>
+                    </ul>
+                </li><!-- Tin tức - Sự kiện-->
+                <!-- Việc làm - Thực Tập -->
+                <li class="dropdown">
+                    <a href="{{ url:site }}pages/works" data-toggle="dropdown" class="dropdown-toggle">
+                        Việc làm - Thực tập
+                    </a>
+                    <ul class="dropdown-menu" id="works_internship_menu">
+                        <li><a href="{{ url:site uri='thong-tin-tuyen-dung' }}">Thông tin tuyển dụng</a></li>
+                        <li><a href="{{ url:site uri='dang-ky-tim-viec' }}">Ứng viên đăng ký tìm việc</a></li>
+                        <li><a href="{{ url:site uri='dang-ky-tuyen-dung' }}">Doanh nghiệp đăng ký tuyển dụng</a></li>
+                    </ul>
+                </li><!-- Việc làm - Thực Tập -->
+                <li class=""><a href="{{ url:site uri='ky-nang' }}">Kỹ năng nghề nghiệp</a></li>
+                <!-- Cựu HSSV -->
+                <li class="dropdown">
+                    <a href="{{ url:site uri='pages/about' }}" data-toggle="dropdown" class="dropdown-toggle">
+                        Cựu HSSV
+                    </a>
+                    <ul class="dropdown-menu" id="students_menu">
+                        <li><a href="{{ url:site uri='danh-sach-cuu-hssv' }}">Danh sách cựu HSSV</a></li>
+                        <li><a href="{{ url:site uri='hoat-dong-cuu-hssv' }}">Hoạt động cựu HSSV</a></li>
+                        <li class="child-menu-end">
+                            <a href="{{ url:site uri='khao-sat-viec-lam' }}">Khảo sát tình hình việc làm</a>
+                        </li>
+                    </ul>
+                </li><!-- Cựu HSSV -->
+                <li id="menu-end"><a href="{{ url:site uri='lien-he' }}">Liên hệ</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</div>

@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head>
+        {{ theme:partial name="metadata" }}
+    </head>
+    <body>
+        {{ theme:partial name="topnavbar" }}
+        
+        <div class="container">
+            <div class="part_content">
+                {{ theme:partial name="menu" }}
+                <div class="row row-offcanvas row-offcanvas-right">
+                    <div class="col-md-12 part_content-child">
+                        <div class="col-md-8 col-left">
+                            <div class="content">
+                                {{ widgets:area slug="slideshow" }}
+                                {{ template:body }}
+                            </div>
+                        </div>
+                        <div class="col-md-4 sidebar-offcanvas col-right" id="sidebar" role="navigation">
+                            <div class="sidebar-module sidebar-module-inset block-sidebar">
+                                {{ widgets:area slug="sidebar-home-right" }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        {{ theme:partial name="footer" }}
+    </body>
+</html>

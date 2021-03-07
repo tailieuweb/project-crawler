@@ -1,0 +1,7 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-07-11 13:37:55 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
+ERROR - 2016-07-11 13:37:55 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
+ERROR - 2016-07-11 13:37:55 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
+ERROR - 2016-07-11 13:37:55 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
+ERROR - 2016-07-11 13:37:55 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at K:\wamp\www\works\trunk\system\cms\modules\blog\libraries\PHPExcel\Writer\Excel2007.php:404) K:\wamp\www\works\trunk\system\codeigniter\core\Output.php 419
