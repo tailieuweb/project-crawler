@@ -1,0 +1,15 @@
+<li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/chuyen-vien-tai-chinh-451716-jv" title="Việc làm Chuyên Viên Tài Chính ">Chuyên Viên Tài Chính </a><em>(Mới)</em></h2>
+                    <span class="posted" itemprop="datePosted">13/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội, Khác</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">-	Tham gia các công việc lập Dự án đầu tư, phân tích tài chính Dự án;
+-	Xây dựng các hồ sơ, tài liệu vay vốn, mời...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH TM Trần Hồng Quân </span>
+                    </span>
+                </li>

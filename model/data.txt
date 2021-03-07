@@ -1,0 +1,1212 @@
+"<!DOCTYPE html>
+<html>
+<head>
+<title>Việc làm ke toan - VietnamWorks</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Robots" content="index, follow">
+<meta name="Description" content="12 tháng 12 2013 - Hiện có 170 việc làm ke toan tại VietnamWorks. Tìm việc làm, ứng tuyển ngay với nhà tuyển dụng hàng đầu Việt Nam!">
+<META NAME="Keywords" content="việc làm ke toan, việc làm, viec lam, tìm việc làm, tuyển dụng, tim viec lam, tuyen dung, vietnamworks, vietnamwork">
+<link rel="stylesheet" type="text/css" href="/css/js/js_screen.css?version=1?v=05032012">
+<link rel="stylesheet" type="text/css" href="/css/jobseekers/master_inn.css?version=1" media="screen">
+<!--[if IE]><script src="/js/html5shiv.js"></script><![endif]-->
+<link rel="canonical" href="http://www.vietnamworks.com/ke-toan-kv/" />
+<script type="text/javascript" src="/js/jquery/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/js/Placeholders.min.js?version=1"></script>
+<script type="text/javascript" src="/js/master.js?version=1"></script>
+<script type="text/javascript" src="/js/jqueryUiQuickSearchBlock.js?version=1"></script>
+<script type="text/javascript" src="/js/quickSearchBlock.js?version=1"></script>
+<script type="text/javascript" src="/js/string.js?version=1"></script>
+<script type="text/javascript" src="/js/image.js?version=1"></script>
+<script type="text/javascript" src="/js/tabs.js?version=1"></script>
+<script type="text/javascript" src="http://ads.vietnamworks.com/pan_server/pan_ajax_compressed.js?version=1"></script>
+<!--for ads-->
+<script type="text/javascript">
+function makeYourHomePage() {
+    if (document.all) _txtMake = "<span class=\"vnw_spacemenu\">|<\/span><a href=\"javascript:void(0);\" onClick=\"this.style.behavior = 'url(#default#homepage)'; this.setHomePage('http://www.vietnamworks.com/');\">Chọn VietnamWorks làm trang chủ<\/a>";
+    else _txtMake = "";
+    document.write(_txtMake);
+}
+if(top.location!=self.location)top.location=self.location;
+</script>
+</head>
+<body >
+<!--Page Header-->
+<header id="page-header">
+    <!--Top Header-->
+    <div class="header container">
+        <div class="row">
+            <div class="span3"> <a href="http://www.vietnamworks.com/" title="Vietnamworks.com – Mạng việc làm, tuyển dụng hàng đầu Việt Nam" class="logo"> <img src="http://images.vietnamworks.com/img/jobseekers/logo.png" alt="Việc làm, tìm việc, tuyển dụng, tìm việc làm, công việc, viec lam, tim viec, tuyen dung"> </a> </div>
+            <div class="span5 header-info">
+                <div class="row switch-bar">
+                    <div class="span5"> <a class="localization" href="http://www.vietnamworks.com/ke-toan-kw" title="English - Vietnamworks">English</a> <span class="employer-site"> <span>Bạn tìm người tài?</span> <a href="http://employer.vietnamworks.com/?lang=2" title="Trang dành cho nhà tuyển dụng"> <strong> Cho nhà tuyển dụng</strong> </a> </span> </div>
+                </div>
+                                <div class="row navigation not-loggedin">
+                    <div class="navigation-inner">
+                        <div class="main-menu-wrapper">
+                            <div class="main-menu">
+                                <a>
+                                    <img alt="Main Menu" src="http://images.vietnamworks.com/img/jobseekers/ico-menu.png">
+                                    <div class="shadow-cover"></div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- user not login -->
+<div class="welcome">
+    <a href="http://www.vietnamworks.com/dang-nhap">Đăng Nhập</a>
+    hay
+    <a href="http://www.vietnamworks.com/dang-ky">Đăng Ký</a>
+</div>
+    <div class="main-menu-dialog">
+    <!-- user not login -->
+        <div class="sign-in-call">
+        <a href="http://www.vietnamworks.com/dang-nhap">Đăng Nhập</a>
+        hay
+        <a href="http://www.vietnamworks.com/dang-ky">Đăng Ký</a> để truy cập tài khoản
+    </div>
+    <hr class="sign-in-call">
+                    <p>
+        <!-- user login -->
+                <strong class="disabled">Quản L&yacute; Nghề Nghiệp</strong>
+            </p>
+        <!-- user not login -->
+    <ul class="disabled">
+                    <li>
+            <!-- user login -->
+                        <span class="icon-pencil disabled"></span>
+            Tạo Hồ Sơ                        
+        </li>
+                    <li>
+            <!-- user login -->
+                        <span class="icon-resume disabled"></span>
+            Hồ Sơ Của Tôi                        
+        </li>
+                    <li>
+            <!-- user login -->
+                        <span class="icon-star disabled"></span>
+            Việc Làm Của Tôi                        
+        </li>
+                    <li>
+            <!-- user login -->
+                        <span class="icon-alert disabled"></span>
+            Thông Báo Việc Làm                        
+        </li>
+                    <li>
+            <!-- user login -->
+                        <span class="icon-chat disabled"></span>
+            Phản Hồi                        
+        </li>
+                </ul>
+        <!-- user login -->
+                <!-- user login -->
+        </div>                    </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+    <!--End Top Header-->
+    <!--Search Tool-->
+            <div class="banner search-tool">
+            <div class="container">
+                <div class="row">
+                    <div class="span12 banner-inner">
+                        <div class="search-area-wrapper">
+                            <div class="tab-searchjob active-tab">Tìm việc làm</div>
+<div class="tab-jobcategories">Ngành nghề</div>
+<div class="shadow-cover"></div>
+<div class="search-area">
+    <div class="search-horizontal">
+        <div class="row">
+            <form name="search" id="frm_block_quick_search" onSubmit="return submitBlockSearchForm()" method="get">
+                <input tabindex="100" class="search-textbox span5"
+                   type="search" name="keyword" id="keywordMainSearch" value="ke toan"
+                   placeholder="Nhập chức danh, vị trí công việc,..."/>
+                <span class="category-select">
+                <select name="industry" id="cateListMainSearch" class="category text">
+                    <option value="0">Tất cả ngành nghề</option>
+                    <option value='33'>B&aacute;n h&agrave;ng</option>
+<option value='34'>B&aacute;n h&agrave;ng kỹ thuật</option>
+<option value='32'>B&aacute;n lẻ/B&aacute;n sỉ</option>
+<option value='24'>Bảo hiểm</option>
+<option value='30'>Bất động sản</option>
+<option value='47'>Bi&ecirc;n phi&ecirc;n dịch</option>
+<option value='17'>Cấp quản l&yacute; điều h&agrave;nh</option>
+<option value='56'>Chứng kho&aacute;n</option>
+<option value='65'>Cơ kh&iacute;</option>
+<option value='66'>C&ocirc;ng nghệ cao</option>
+<option value='28'>Dầu kh&iacute;</option>
+<option value='52'>Dệt may/Da gi&agrave;y</option>
+<option value='11'>Dịch vụ kh&aacute;ch h&agrave;ng</option>
+<option value='6'>Dược Phẩm/C&ocirc;ng nghệ sinh học</option>
+<option value='12'>Gi&aacute;o dục/Đ&agrave;o tạo</option>
+<option value='62'>H&agrave;ng cao cấp</option>
+<option value='37'>H&agrave;ng kh&ocirc;ng/Du lịch/Kh&aacute;ch sạn</option>
+<option value='2'>H&agrave;nh ch&aacute;nh/Thư k&yacute;</option>
+<option value='43'>H&oacute;a học/H&oacute;a sinh</option>
+<option value='69'>Hoạch định/Dự &aacute;n</option>
+<option value='57'>Internet/Online Media</option>
+<option value='35'>IT - Phần mềm</option>
+<option value='55'>IT-Phần cứng/Mạng</option>
+<option value='1'>Kế to&aacute;n</option>
+<option value='53'>Kho vận</option>
+<option value='58'>Kiểm to&aacute;n</option>
+<option value='5'>Kiến tr&uacute;c/Thiết kế nội thất </option>
+<option value='27'>Marketing</option>
+<option value='15'>Mới tốt nghiệp</option>
+<option value='16'>M&ocirc;i trường/Xử l&yacute; chất thải</option>
+<option value='10'>Mỹ thuật/Thiết kế</option>
+<option value='42'>Ng&acirc;n h&agrave;ng</option>
+<option value='18'>Người nước ngo&agrave;i/Việt Kiều</option>
+<option value='23'>Nh&acirc;n sự</option>
+<option value='4'>N&ocirc;ng nghiệp/L&acirc;m nghiệp</option>
+<option value='67'>&Ocirc; t&ocirc;</option>
+<option value='71'>Overseas Jobs</option>
+<option value='25'>Ph&aacute;p l&yacute;</option>
+<option value='21'>Phi ch&iacute;nh phủ/Phi lợi nhuận</option>
+<option value='70'>QA/QC</option>
+<option value='3'>Quảng c&aacute;o/Khuyến m&atilde;i/Đối ngoại</option>
+<option value='68'>Sản phẩm c&ocirc;ng nghiệp</option>
+<option value='26'>Sản Xuất</option>
+<option value='59'>T&agrave;i ch&iacute;nh/Đầu tư</option>
+<option value='63'>Thời trang/Lifestyle</option>
+<option value='51'>Thời vụ/Hợp đồng ngắn hạn</option>
+<option value='54'>Thực phẩm &amp; Đồ uống</option>
+<option value='48'>Truyền h&igrave;nh/Truyền th&ocirc;ng/B&aacute;o ch&iacute;</option>
+<option value='8'>Tư vấn</option>
+<option value='36'>Vận chuyển/Giao nhận</option>
+<option value='49'>Vật Tư/Cung vận</option>
+<option value='41'>Viễn Th&ocirc;ng</option>
+<option value='7'>X&acirc;y dựng</option>
+<option value='19'>Xuất nhập khẩu</option>
+<option value='22'>Y tế/Chăm s&oacute;c sức khỏe</option>
+<option value='64'>Điện/Điện tử</option>
+<option value='39'>Kh&aacute;c</option>
+                </select>
+                <select name="city" id="locationMainSearch" class="location text">
+                    <option value="0">Tất cả địa điểm</option>
+                    <option value='29' >Hồ Ch&iacute; Minh</option>
+<option value='24' >H&agrave; Nội</option>
+<option value='71' >ĐBSCL</option>
+<option value='2' >An Giang</option>
+<option value='3' >B&agrave; Rịa - Vũng T&agrave;u</option>
+<option value='4' >Bắc cạn</option>
+<option value='5' >Bắc Giang</option>
+<option value='6' >Bạc Li&ecirc;u</option>
+<option value='7' >Bắc Ninh</option>
+<option value='8' >Bến Tre</option>
+<option value='9' >Bi&ecirc;n H&ograve;a</option>
+<option value='10' >B&igrave;nh Định</option>
+<option value='11' >B&igrave;nh Dương</option>
+<option value='12' >B&igrave;nh Phước</option>
+<option value='13' >B&igrave;nh Thuận</option>
+<option value='14' >C&agrave; Mau</option>
+<option value='15' >Cần Thơ</option>
+<option value='16' >Cao Bằng</option>
+<option value='17' >Đ&agrave; Nẵng</option>
+<option value='18' >Đắc Lắc</option>
+<option value='69' >Điện Bi&ecirc;n</option>
+<option value='19' >Đồng Nai</option>
+<option value='20' >Đồng Th&aacute;p</option>
+<option value='21' >Gia Lai</option>
+<option value='22' >H&agrave; Giang</option>
+<option value='23' >H&agrave; Nam</option>
+<option value='25' >H&agrave; T&acirc;y</option>
+<option value='26' >H&agrave; Tĩnh</option>
+<option value='27' >Hải Dương</option>
+<option value='28' >Hải Ph&ograve;ng</option>
+<option value='30' >H&ograve;a B&igrave;nh</option>
+<option value='31' >Huế</option>
+<option value='32' >Hưng Y&ecirc;n</option>
+<option value='33' >Kh&aacute;nh H&ograve;a</option>
+<option value='34' >Kon Tum</option>
+<option value='35' >Lai Ch&acirc;u</option>
+<option value='36' >L&acirc;m Đồng</option>
+<option value='37' >Lạng Sơn</option>
+<option value='38' >L&agrave;o Cai</option>
+<option value='39' >Long An</option>
+<option value='40' >Nam Định</option>
+<option value='41' >Nghệ An</option>
+<option value='42' >Ninh B&igrave;nh</option>
+<option value='43' >Ninh Thuận</option>
+<option value='44' >Ph&uacute; Thọ</option>
+<option value='45' >Ph&uacute; Y&ecirc;n</option>
+<option value='46' >Quảng B&igrave;nh</option>
+<option value='47' >Quảng Nam</option>
+<option value='48' >Quảng Ng&atilde;i</option>
+<option value='49' >Quảng Ninh</option>
+<option value='50' >Quảng Trị</option>
+<option value='51' >S&oacute;c Trăng</option>
+<option value='52' >Sơn La</option>
+<option value='53' >T&acirc;y Ninh</option>
+<option value='54' >Th&aacute;i B&igrave;nh</option>
+<option value='55' >Th&aacute;i Nguy&ecirc;n</option>
+<option value='56' >Thanh H&oacute;a</option>
+<option value='57' >Thừa Thi&ecirc;n-Huế</option>
+<option value='58' >Tiền Giang</option>
+<option value='59' >Tr&agrave; Vinh</option>
+<option value='60' >Tuy&ecirc;n Quang</option>
+<option value='61' >Ki&ecirc;n Giang</option>
+<option value='62' >Vĩnh Long</option>
+<option value='63' >Vĩnh Ph&uacute;c</option>
+<option value='65' >Y&ecirc;n B&aacute;i</option>
+<option value='66' >Kh&aacute;c</option>
+<option value='70' >Quốc tế</option>
+<option value='72' >Hậu Giang</option>
+                </select>
+                <input tabindex="104" class="search-button span2" type="submit" value="Tìm ngay!"/>
+            </form>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+$("#locationMainSearch").comboboxMainSearch();
+$("#cateListMainSearch").comboboxMainSearch();
+</script>
+                            <div class="job-category">
+    <h2>Ngành nghề hấp dẫn</h2>
+    <div class="category-list">
+        <ul>            <li><a href="http://www.vietnamworks.com/viec-lam-ban-hang-i33-vn" title="Jobs in Bán hàng">Bán hàng <em>(586)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-it-phan-mem-i35-vn" title="Jobs in IT - Phần mềm">IT - Phần mềm <em>(456)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-marketing-i27-vn" title="Jobs in Marketing">Marketing <em>(361)</em></a></li>
+        </ul><ul>            <li><a href="http://www.vietnamworks.com/viec-lam-san-xuat-i26-vn" title="Jobs in Sản Xuất">Sản Xuất <em>(344)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-ke-toan-tai-chinh-i1-vn" title="Jobs in Kế toán">Kế toán <em>(296)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-hanh-chanh-thu-ky-i2-vn" title="Jobs in Hành chánh/Thư ký">Hành chánh/Thư ký <em>(294)</em></a></li>
+        </ul><ul>            <li><a href="http://www.vietnamworks.com/viec-lam-co-khi-i65-vn" title="Jobs in Cơ khí">Cơ khí <em>(291)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-dien-dien-tu-i64-vn" title="Jobs in Điện/Điện tử">Điện/Điện tử <em>(273)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-dich-vu-khach-hang-i11-vn" title="Jobs in Dịch vụ khách hàng">Dịch vụ khách hàng <em>(253)</em></a></li>
+        </ul><ul>            <li><a href="http://www.vietnamworks.com/viec-lam-it-phan-cung-mang-i55-vn" title="Jobs in IT-Phần cứng/Mạng">IT-Phần cứng/Mạng <em>(232)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-xay-dung-i7-vn" title="Jobs in Xây dựng">Xây dựng <em>(227)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-tai-chinh-dau-tu-i59-vn" title="Jobs in Tài chính/Đầu tư">Tài chính/Đầu tư <em>(215)</em></a></li>
+        </ul><ul>            <li><a href="http://www.vietnamworks.com/viec-lam-bien-phien-dich-i47-vn" title="Jobs in Biên phiên dịch">Biên phiên dịch <em>(212)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-hang-khong-du-lich-khach-san-i37-vn" title="Jobs in Hàng không/Du lịch/Khách ..">Hàng không/Du lịch/Khách .. <em>(185)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-cap-quan-ly-dieu-hanh-i17-vn" title="Jobs in Cấp quản lý điều hành">Cấp quản lý điều hành <em>(180)</em></a></li>
+        </ul><ul>            <li><a href="http://www.vietnamworks.com/viec-lam-ngan-hang-i42-vn" title="Jobs in Ngân hàng">Ngân hàng <em>(179)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-ban-hang-ky-thuat-i34-vn" title="Jobs in Bán hàng kỹ thuật">Bán hàng kỹ thuật <em>(179)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-xuat-nhap-khau-i19-vn" title="Jobs in Xuất nhập khẩu">Xuất nhập khẩu <em>(176)</em></a></li>
+        </ul><ul>            <li><a href="http://www.vietnamworks.com/viec-lam-thuc-pham-do-uong-i54-vn" title="Jobs in Thực phẩm & Đồ uống">Thực phẩm & Đồ uống <em>(169)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-nhan-su-i23-vn" title="Jobs in Nhân sự">Nhân sự <em>(169)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-det-may-da-giay-i52-vn" title="Jobs in Dệt may/Da giày">Dệt may/Da giày <em>(155)</em></a></li>
+        </ul><ul>            <li><a href="http://www.vietnamworks.com/viec-lam-ke-toan-kiem-toan-i58-vn" title="Jobs in Kiểm toán">Kiểm toán <em>(151)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-van-chuyen-giao-nhan-i36-vn" title="Jobs in Vận chuyển/Giao nhận">Vận chuyển/Giao nhận <em>(137)</em></a></li>
+                    <li><a href="http://www.vietnamworks.com/viec-lam-giao-duc-dao-tao-i12-vn" title="Jobs in Giáo dục/Đào tạo">Giáo dục/Đào tạo <em>(137)</em></a></li>
+        </ul><ul></ul><a href="http://www.vietnamworks.com/tim-viec-lam" class="view-all">Xem thêm</a>    </div>
+</div>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <!-- End Search Tool-->
+</header>
+<!-- End Page Header-->
+<section class="main-container-wrapper">
+<script type="text/javascript">var base_url = "http://www.vietnamworks.com/";</script><!--Begin Container-->
+<div id="searchresult" class="container">
+  <div class="page-view">
+    <!--Begin Content-->
+    <div class="page-content">
+      <!-- Job Information -->
+      <span class="page-title">Kết quả tìm việc làm</span>
+                     <h1 class="search-info floatLeft">Tìm thấy <strong class="active">170</strong>
+
+               việc làm <a href="http://www.vietnamworks.com/ke-toan-kv">ke toan</a>                        <span class="search-field">
+                      </span>
+      </h1>
+      
+      <div class="search-result">
+			                     <div class="relevant box-light">
+              <strong>Hãy chọn đúng ngành nghề của bạn để tìm việc làm phù hợp nhất:</strong><br>
+			                                                                <a href="http://www.vietnamworks.com/ke-toan+nganh-ke-toan-tai-chinh-i1-vn" title="Jobs in Kế toán">Kế toán</a>,&nbsp;
+                                                    <a href="http://www.vietnamworks.com/ke-toan+nganh-ke-toan-kiem-toan-i58-vn" title="Jobs in Kiểm toán">Kiểm toán</a>,&nbsp;
+                                                    <a href="http://www.vietnamworks.com/ke-toan+nganh-tai-chinh-dau-tu-i59-vn" title="Jobs in Tài chính/Đầu tư">Tài chính/Đầu tư</a>,&nbsp;
+                                                    <a href="http://www.vietnamworks.com/ke-toan+nganh-ngan-hang-i42-vn" title="Jobs in Ngân hàng">Ngân hàng</a>,&nbsp;
+                                                    <a href="http://www.vietnamworks.com/ke-toan+nganh-ban-hang-i33-vn" title="Jobs in Bán hàng">Bán hàng</a>
+                          </div>
+                                <div class="action-link" >
+            <span id="link_jobalert">
+                <a href="javascript:void(0);" onclick="addJobAlertFromSearch();" class="link-icon icon-email" title="Gửi email việc làm tương tự">Gửi email việc làm tương tự</a>
+            </span>
+
+		  		  <a title="RSS" class="link-icon icon-rss" href="http://www.vietnamworks.com/ke-toan-kv.xml">RSS</a>
+		  		  <span class="search-nav">Hiển thị: <a title="hiển thị 20 việc làm trên mỗi trang" href="/ke-toan-kv/20-viec-lam-moi-trang"><strong>20</strong></a> | <strong class="active">30</strong> | <a title="hiển thị 50 việc làm trên mỗi trang" href="/ke-toan-kv/50-viec-lam-moi-trang"><strong>50</strong></a> việc làm mỗi trang</span> </div>
+                <ol class="list ">
+            		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-truong-451568-jv" title="Việc làm Kế Toán Trưởng ">Kế Toán Trưởng </a><em>(Mới)</em></h2>
+                    <span class="posted" itemprop="datePosted">12/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Đà Nẵng</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- Cung cấp kịp thời và đầy đủ các thông tin kế toán về hoạt động kinh doanh, các khoản thu chi của chi nhánh cho...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH Đa Lộc </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/02-ke-toan-tong-hop-451493-jv" title="Việc làm 02 Kế Toán Tổng Hợp ">02 Kế Toán Tổng Hợp </a><em>(Mới)</em></h2>
+                    <span class="posted" itemprop="datePosted">12/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- 02 nhân viên kế toán tổng hợp
+- Thực hiện các nghiệp vụ Kế toán thu chi
+- Quản lý quỹ
+- Theo dõi và quản lý...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Asianway Travel </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/chuyen-vien-ke-hoach-san-xuat-451558-jv" title="Việc làm Chuyên Viên Kế Hoạch Sản Xuất ">Chuyên Viên Kế Hoạch Sản Xuất </a><em>(Mới)</em></h2>
+                    <span class="posted" itemprop="datePosted">12/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">1.  Nhận Sale Forecast từ Trade MKT lập kế hoạch DP cho nhà máy (Bao gồm cả kế hoạch Khuyến 
+mại cho các kênh)
+2.  Lập...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty CP Đầu Tư Và Phát Triển D&G Việt Nam </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-thue-451497-jv" title="Việc làm Kế Toán Thuế ">Kế Toán Thuế </a><em>(Mới)</em></h2>
+                    <span class="posted" itemprop="datePosted">12/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">1.	 Công việc hàng ngày
+•	Theo dõi kiểm soát nghiệp vụ kho hàng và hạch toán chi tiết các nghiệp vụ phát sinh trên...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty CP Đầu Tư Và Phát Triển D&G Việt Nam </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/nhan-vien-moi-gioi-451511-jv" title="Việc làm Nhân Viên Môi Giới ">Nhân Viên Môi Giới </a><em>(Mới)</em></h2>
+                    <span class="posted" itemprop="datePosted">12/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hồ Chí Minh</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">•       Phát triển khách hàng; tìm kiếm khách hàng mới và duy trì quan hệ với khách hàng hiện tại 
+•       Hướng...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty CP Chứng Khoán Sài Gòn </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/phien-dich-tieng-han-co-nghiep-vu-ke-toan-451483-jv" title="Việc làm Phiên Dịch Tiếng Hàn Có Nghiệp Vụ Kế Toán ">Phiên Dịch Tiếng Hàn Có Nghiệp Vụ Kế Toán ...</a><em>(Mới)</em></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nam</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">Sẽ trao đổi chi tiết khi phỏng vấn</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH Konito Việt Nam </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-tong-hop-doanh-thu-cac-dich-vu-451415-jv" title="Việc làm Kế Toán Tổng Hợp Doanh Thu Các Dịch Vụ ">Kế Toán Tổng Hợp Doanh Thu Các Dịch Vụ </a><em>(Mới)</em></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">o	Kiểm soát, hạch toán số liệu về toàn bộ Doanh thu hàng hóa dịch vụ của công ty.
+o	Kiểm soát, hạch toán số liệu...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty CP Thanh Toán Điện Tử VNPT </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/chuyen-vien-nganh-logistic-451333-jv" title="Việc làm Chuyên Viên Ngành Logistic ">Chuyên Viên Ngành Logistic </a></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội, Hải Dương, Hải Phòng</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">Công việc sẽ được đào tạo theo thực tế.</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Jupiter Pacific Forwarding Joint Stock Company </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-van-phong-tuyen-gap-451396-jv" title="Việc làm Kế Toán Văn Phòng [Tuyển Gấp] ">Kế Toán Văn Phòng [Tuyển Gấp] </a></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- Hỗ trợ Phụ trách kế toán của Công ty lập báo cáo thuế, sổ sách kế toán theo đúng chế độ kế toán.
+
+- Kế...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH Xây Dựng Và Thương Mại Quang Minh </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/truong-phong-phat-trien-phan-mem-1000-1500-usd-451407-jv" title="Việc làm Trưởng Phòng Phát Triển Phần Mềm (1000 ~ 1500 USD) ">Trưởng Phòng Phát Triển Phần Mềm (1000 ~ 1500 USD) ...</a></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">Phát triển hệ thống:
+•	Quản lý và theo dõi toàn bộ hoạt động của phòng
+•	Nhận yêu cầu từ khách hàng, sau đó...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Vietnam Smart BPO </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/nhan-vien-kinh-doanh-451400-jv" title="Việc làm Nhân Viên Kinh Doanh ">Nhân Viên Kinh Doanh </a></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hồ Chí Minh</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">I. Trách nhiệm :
+- Chịu trách nhiệm đơn hàng
+- Lưu trữ hồ sơ 
+- Bán hàng
+
+II. Nhiệm vụ:
+1. Thu thập, phân tích...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty Lê Bảo Minh </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/giam-doc-tai-chinh-dich-vu-nha-hang-khach-san-lam-viec-o-ha-tien-1-451351-jv" title="Việc làm Giám Đốc Tài Chính (Dịch Vụ Nhà Hàng Khách Sạn, Làm Việc Ở Hà Tiên) ">Giám Đốc Tài Chính (Dịch Vụ Nhà Hàng Khách Sạn, Làm...</a></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Kiên Giang</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">•	Số lượng tuyển:	1
+•	Địa điểm làm việc:	Thị xã Hà Tiên – Tỉnh Kiên Giang
+•	Thời gian làm việc:	Giờ hành...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">River Hotel (Kiên Giang) </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-truong-451272-jv" title="Việc làm Kế Toán Trưởng ">Kế Toán Trưởng </a></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">1.	Tổ chức hạch toán kế toán toàn công ty:
+- Tổ chức vận dụng hệ thống tài khoản kế toán. Tổ chức  ghi sổ kế...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty Cổ Phần Xây Dựng Và Sản Xuất Kansai Vina </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/nhan-vien-ke-toan-cap-cao-quan-ly-du-an-ke-toan-tai-chinh-ma-acc1213-451311-jv" title="Việc làm Nhân Viên Kế Toán Cấp Cao (Quản Lý Dự Án Kế Toán Tài Chính) Mã: Acc1213 ">Nhân Viên Kế Toán Cấp Cao (Quản Lý Dự Án Kế Toán Tài...</a></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Vĩnh Phúc</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">1. Quản lý dự án chuyển đổi  Báo cáo Tài chính Hợp nhất từ Tiêu chuẩn Mỹ (USGAAP) sang Chuẩn mực Quốc tế (IFRS)...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty Honda Việt Nam </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/nhan-vien-tu-van-ke-toan-thue-451269-jv" title="Việc làm Nhân Viên Tư Vấn Kế Toán/ Thuế ">Nhân Viên Tư Vấn Kế Toán/ Thuế </a></h2>
+                    <span class="posted" itemprop="datePosted">11/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hồ Chí Minh</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- Thực hiện các nghiệp vụ kế toán/thuế cho khách hàng;
+- Quản lý công việc: gặp gỡ khách hàng, lập kế hoạch, tổ...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH I-Glocal, Chi Nhánh Tp. HCM </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-kiem-hanh-chinh-tong-hop-general-accountant-administration-451296-jv" title="Việc làm Kế Toán Kiêm Hành Chính Tổng Hợp (General Accountant & Administration) ">Kế Toán Kiêm Hành Chính Tổng Hợp (General Accountant &amp;...</a></h2>
+                    <span class="posted" itemprop="datePosted">10/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Bình Dương</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">Mô tả công việc:
+
+• Phụ trách công tác kế toán của phân xưởng sản xuất bao gồm thu, chi, in hóa đơn và báo cáo...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty Cổ Phần Vật Liệu Sơn Mê Kông (Mekong Coating Materials) </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/chuyen-vien-kinh-doanh-du-an-quan-he-cong-dong-451195-jv" title="Việc làm Chuyên Viên Kinh Doanh Dự Án (Quan Hệ Cộng Đồng) ">Chuyên Viên Kinh Doanh Dự Án (Quan Hệ Cộng Đồng) ...</a></h2>
+                    <span class="posted" itemprop="datePosted">10/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">Địa chỉ làm việc: P2003 CT2 Khu ĐT Bắc Hà, Hà Đông, Hà Nội 
+
+- Lập phương án kinh doanh chi tiết để triển khai kế...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty Cổ Phần Sản Xuất Và Thương Mại Hoàn Dương </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/nhan-vien-it-chuyen-vien-trien-khai-sap-erp-451245-jv" title="Việc làm Nhân Viên IT - Chuyên Viên Triển Khai Sap/erp ">Nhân Viên IT - Chuyên Viên Triển Khai Sap/erp </a></h2>
+                    <span class="posted" itemprop="datePosted">10/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Đồng Nai</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">•	Hướng dẫn sử dụng, hỗ trợ người dùng module ERP.
+•	Đánh giá, khảo sát và xây dựng tài liệu hướng dẫn...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Hyosung Việt Nam </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-truong-451236-jv" title="Việc làm Kế Toán Trưởng ">Kế Toán Trưởng </a></h2>
+                    <span class="posted" itemprop="datePosted">10/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Bình Thuận</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">1/ Quản lý điều hành chức năng kế toán tài chính, thống kê
+- Tổ chức hạch toán, ghi chép sổ sách kế toán. 
+-...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH Thương Mại & Sản Xuất Quản Trung </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/nhan-vien-hanh-chinh-451227-jv" title="Việc làm Nhân Viên Hành Chính ">Nhân Viên Hành Chính </a></h2>
+                    <span class="posted" itemprop="datePosted">10/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Bắc Ninh, Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">Sẽ trao đổi chi tiết khi phỏng vấn</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Canon Vietnam </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-thue-tuyen-02-nam-451078-jv" title="Việc làm Kế Toán Thuế (Tuyển 02 Nam) ">Kế Toán Thuế (Tuyển 02 Nam) </a></h2>
+                    <span class="posted" itemprop="datePosted">09/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- Đọc và hiểu kế toán thuế, kho, xuất nhập tồn hàng hóa 
+- Lập biểu, theo dõi và đôn đốc việc thực hiện kế...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty Cổ Phần Sunpad Việt Nam </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/nhan-vien-phong-ke-toan-451053-jv" title="Việc làm Nhân Viên Phòng Kế Toán ">Nhân Viên Phòng Kế Toán </a></h2>
+                    <span class="posted" itemprop="datePosted">09/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">Phụ trách công việc của P. Kế toán 
+(Trao đổi cụ thể khi phỏng vấn)</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH OGINO Việt Nam </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/chuyen-vien-phat-trien-khach-hang-dinh-che-451043-jv" title="Việc làm Chuyên Viên Phát Triển Khách Hàng Định Chế ">Chuyên Viên Phát Triển Khách Hàng Định Chế </a></h2>
+                    <span class="posted" itemprop="datePosted">09/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hồ Chí Minh</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">•	Hỗ trợ Trưởng đơn vị thực hiện kế hoạch kinh doanh.
+•	Xây dựng và phát triển cơ sở khách hàng là các Định...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH Chứng Khoán ACB </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/nhan-vien-ke-toan-451016-jv" title="Việc làm Nhân Viên Kế Toán ">Nhân Viên Kế Toán </a></h2>
+                    <span class="posted" itemprop="datePosted">09/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- Kế toán tổng hợp hàng ngày
+- Kê khai thuế
+- Phối hợp vói các bộ phận khác trong việc theo dõi công nợ và thanh...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Dong Nam Logistics Co.,ltd </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-vien-thu-nhap-6-8-trieu-450997-jv" title="Việc làm Kế Toán Viên (Thu Nhập 6 - 8 Triệu) ">Kế Toán Viên (Thu Nhập 6 - 8 Triệu) </a></h2>
+                    <span class="posted" itemprop="datePosted">09/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hồ Chí Minh</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">1. Cập nhật hóa đơn, chứng từ hàng ngày .
+2. Kiểm soát công nợ, kiểm soát vật tư, hàng hóa.
+3. Tổng hợp số...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty Cổ Phần Đầu Tư Topcom </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/chief-accountant-ke-toan-truong-450978-jv" title="Việc làm Chief Accountant- Kế Toán Trưởng ">Chief Accountant- Kế Toán Trưởng </a></h2>
+                    <span class="posted" itemprop="datePosted">09/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hồ Chí Minh</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">The main duties of this job are as described as follows:
+•	Have to manage the accounts department. Both the accounts that are payable, and also...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty Cổ Phần Truyền Thông SFM </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/truong-nhom-chinh-sach-phuc-loi-c-b-450972-jv" title="Việc làm Trưởng Nhóm Chính Sách Phúc Lợi (C&B) ">Trưởng Nhóm Chính Sách Phúc Lợi (C&amp;B) </a></h2>
+                    <span class="posted" itemprop="datePosted">09/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- Chịu trách nhiệm duy trì và bảo đảm chi phí hợp lý của nhân sự thông qua chế độ chính sách phúc lợi và tiền...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">BIM Group </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/truong-nhom-chuyen-mon-dao-tao-mang-tieng-anh-cho-nguoi-di-lam-450953-jv" title="Việc làm Trưởng Nhóm Chuyên Môn Đào Tạo (Mảng Tiếng Anh Cho Người Đi Làm) ">Trưởng Nhóm Chuyên Môn Đào Tạo (Mảng Tiếng Anh Cho...</a></h2>
+                    <span class="posted" itemprop="datePosted">09/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội, Hồ Chí Minh</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- Chịu trách nhiệm và điều phối toàn bộ hoạt động liên quan đến giảng dạy và đào tạo tại aroma từng chi...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Aroma - Tiếng Anh Cho Người Đi Làm </span>
+                    </span>
+                </li>
+                		   <li class='row-alt' itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/ke-toan-kho-450892-jv" title="Việc làm Kế Toán Kho ">Kế Toán Kho </a></h2>
+                    <span class="posted" itemprop="datePosted">07/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hà Nội</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">- Làm công việc của một kế toán kho
+- Tổ chức thực hiện kiểm tra , kiểm soát  số lượng và chất lượng vật tư,...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">CN Tại Hà Nội-Công Ty Cổ Phần Food & Beverage Việt Nam </span>
+                    </span>
+                </li>
+                		   <li  itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="list-item">
+                    <h2 class="title "><a itemprop="title" target="_blank" href="http://www.vietnamworks.com/tu-van-ke-toan-450869-jv" title="Việc làm Tư Vấn Kế Toán ">Tư Vấn Kế Toán </a></h2>
+                    <span class="posted" itemprop="datePosted">06/12/2013</span>
+                    <span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <span itemprop="addressLocality"> Hồ Chí Minh</span>
+                    </span></span>
+                                        </div>
+                    <!--<p class="description">• Tham gia vào nhóm tư vấn kế toán và thuế, thực hiện việc ghi sổ kế toán cho khách hàng, làm tờ khai thuế và các...</p>-->
+                    <span class="subtitle " itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization">
+                    <span itemprop="name">Công Ty TNHH Tokyo Consulting </span>
+                    </span>
+                </li>
+                        </ol>
+          </div>
+            <div class="pagination-bar">
+        <ul id="pagination"><li class="active">1</li><li><a href="/ke-toan-kv/trang-2">2</a></li><li><a href="/ke-toan-kv/trang-3">3</a></li><li><a href="/ke-toan-kv/trang-4">4</a></li><li><a href="/ke-toan-kv/trang-5">5</a></li><li class="next"><a href="/ke-toan-kv/trang-2">Trang kế »</a></li></ul>        <!--<ul id="pagination">
+          <li class="previous"><a href="#">« Trang trước</a></li>
+          <li><a href="?page=1">1</a></li>
+          <li class="active">2</li>
+          <li><a href="?page=3">3</a></li>
+          <li><a href="?page=4">4</a></li>
+
+          <li><a href="?page=5">5</a></li>
+          <li class="next"><a href="#">Trang kế »</a></li>
+        </ul>-->
+      </div>
+          </div>
+    <!--Begin Sidebar-->
+    <div class="sidebar">
+        <div class="note-box">
+    <div class="note-box-top"><h2>Việc làm cấp quản lý</h2></div>
+    <div class="note-box-body">
+        <ul>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/ke-toan-truong-451236-jv" title="Kế Toán Trưởng "><span class="job">Kế Toán Trưởng </span></a>
+                <span class="job-company">Công Ty TNHH Thương Mại & Sản Xuất Quản Trung  ...</span>
+            </li>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/senior-m-e-supervisor-number-10-giam-sat-truong-dien-nuoc-so-luong-10-nguoi-450723-jv" title="Senior M& E Supervisor (Number: 10)/ Giám Sát Trưởng: Điện–Nước (Số Lượng: 10 Người) "><span class="job">Senior M& E Supervisor (Number: 10)/ Giám Sát ...</span></a>
+                <span class="job-company">URC Engineering SDN. BHD </span>
+            </li>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/20-senior-site-supervisor-structure-architecture-finishing-20-giam-sat-truong-ket-cau-kien-truc-450720-jv" title="20 Senior Site Supervisor (Structure–Architecture/finishing) - 20 Giám Sát Trưởng(Kết Cấu-Kiến Trúc) "><span class="job">20 Senior Site Supervisor ...</span></a>
+                <span class="job-company">URC Engineering SDN. BHD </span>
+            </li>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/tuyen-truong-nhom-tro-len-trung-tam-nghien-cuu-va-phat-trien-450144-jv" title="Tuyển Trưởng Nhóm Trở Lên - Trung Tâm Nghiên Cứu Và Phát Triển "><span class="job">Tuyển Trưởng Nhóm Trở Lên - Trung Tâm Nghiên Cứu ...</span></a>
+                <span class="job-company">Công Ty TNHH Panasonic Appliances Việt Nam (PAPVN) ...</span>
+            </li>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/fitness-marketing-manager-450114-jv" title="Fitness Marketing Manager (Lương Từ 1000$ - 2000$) "><span class="job">Fitness Marketing Manager (Lương Từ 1000$ - 2000$) ...</span></a>
+                <span class="job-company">Công Ty Cổ Phần Đầu Tư Công Nghệ Và Địa Ốc ...</span>
+            </li>
+                    </ul>
+    </div>
+        <div class="note-box-bottom">
+        <a href="http://www.vietnamworks.com/tim-viec-lam/viec-lam-quan-ly" onclick="_gaq.push(['_trackEvent','Executive Jobs HomePage','Executive Jobs HomePage','']);
+" title="Cơ hội khám phá việc làm thu nhập cao và việc làm quản lý"><span>Xem thêm...</span></a>
+    </div>
+    </div>
+<div class="note-box">
+    <div class="note-box-top"><h2>Việc làm cần tuyển gấp</h2></div>
+    <div class="note-box-body">
+        <ul>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/ke-toan-truong-451236-jv" title="Kế Toán Trưởng "><span class="job">Kế Toán Trưởng </span></a>
+                <span class="job-company">Công Ty TNHH Thương Mại & Sản Xuất Quản Trung  ...</span>
+            </li>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/senior-mobile-developer-ios-android-450917-jv" title="Senior Mobile Developer (iOS / Android) "><span class="job">Senior Mobile Developer (iOS / Android) </span></a>
+                <span class="job-company">NVG </span>
+            </li>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/nhan-vien-thiet-ke-flash-flash-designer-450860-jv" title="Nhân Viên Thiết Kế Flash (Flash Designer) "><span class="job">Nhân Viên Thiết Kế Flash (Flash Designer) </span></a>
+                <span class="job-company">Công Ty CP Truyền Thông Di Động Việt Thông Minh  ...</span>
+            </li>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/senior-m-e-supervisor-number-10-giam-sat-truong-dien-nuoc-so-luong-10-nguoi-450723-jv" title="Senior M& E Supervisor (Number: 10)/ Giám Sát Trưởng: Điện–Nước (Số Lượng: 10 Người) "><span class="job">Senior M& E Supervisor (Number: 10)/ Giám Sát ...</span></a>
+                <span class="job-company">URC Engineering SDN. BHD </span>
+            </li>
+                        <li>
+                <a target="_blank" href="http://www.vietnamworks.com/site-surveyor-number-5-trac-dat-cong-truong-so-luong-5-450726-jv" title="Site Surveyor (Number: 5)/ Trắc Đạt Công Trường (Số Lượng: 5) "><span class="job">Site Surveyor (Number: 5)/ Trắc Đạt Công Trường ...</span></a>
+                <span class="job-company">URC Engineering SDN. BHD </span>
+            </li>
+                    </ul>
+    </div>
+        <div class="note-box-bottom">
+        <a href="http://www.vietnamworks.com/tim-viec-lam/viec-lam-can-tuyen-gap" onclick="_gaq.push(['_trackEvent','Urgent Hiring Jobs HomePage','Urgent Hiring Jobs HomePage','']);" title="Việc làm cần tuyển gấp"><span>Xem thêm...</span></a>
+    </div>
+    </div>
+                <div class="ad-banner">
+          <!--<h4>Quảng Cáo</h4>-->
+          <div style="position: relative;" class="leftcol_search">
+<div class="txt_adver">&nbsp;QUẢNG CÁO</div>
+<div id='ads_LEFT' style='clear:both;'></div><script type='text/javascript'>ajaxAds('LEFT','YTo0OntzOjQ6Imhvc3QiO3M6MjA6Ind3dy52aWV0bmFtd29ya3MuY29tIjtzOjQ6InBhZ2UiO3M6Mjk6Ii9qb2JzZWVrZXJzL3NlYXJjaHJlc3VsdHMucGhwIjtzOjg6ImtleXdvcmRzIjtzOjMyOiJsYW46OjEsK2luZDo6ZSwrdXNyOjoyLCtwcm9tbzo6ZSI7czoxMjoicGFuX3JlZ2lzdGVyIjtzOjI6Im5vIjt9');</script></div>        </div>
+		    </div>
+  </div>
+</div>
+<!-- End Content-->
+<!--End Container-->
+
+<div style="clear:both"></div>
+<!--Pop up Finish -->
+<div id="dialogbox" class="dialogBox Simple span-14" style="display:none; z-index:999; float:none !important; margin:auto;">
+    <div class="dialogContent">
+      <!-- Dialog Content -->
+      <div class="dialogHeader">
+        <h3 id="alert_title">Gửi email việc làm tương tự</h3>
+      </div>
+      <div class="dialogBody" style="text-align: center;"><br/>
+   <span id="alert_message"> Việc làm tương tự sẽ được gửi đến email của bạn hàng tuần.</span>
+      </div>
+      <br/>
+      <div class="dialogFooter" id="button_div">
+        <button id="editjobalert_button" style="line-height:1;padding: 5px; width: 215px; background-position: -445px -58px;" type="button" class="subBtn" tabindex="16" onclick="window.location.href='/quan-ly-nghe-nghiep/thong-bao-viec-lam/tao-moi/?m=fromsearch';" ><span >Thay đổi thông báo việc làm</span></button>
+        <button style="line-height:1;padding: 5px;" type="button" class="subBtn" tabindex="16" onclick="createJobalert();"><span>Đồng ý</span></button>
+        <span class="iconBoxLarge"><a href="javascript:closeBlockUI();" class="sprite_icon deleteIconDis"><span class="hide">Close</span></a></span> </div>
+    </div>
+  </div>
+<div class="subscription-popup sub-popup-vi" id="subscription_popup" style="display: none">
+    <h2>Đăng ký ngay bản tin VietnamWorks, để tìm thấy</h2>
+    <ul>
+        <li>Bí quyết tìm việc và thăng tiến trong sự nghiệp</li>
+        <li>Những cơ hội việc làm mơ ước chỉ của riêng bạn</li>
+        <li>Thử thách bản thân ở những vị trí "sếp"</li>
+    </ul>
+    <form id="frm_sn" name="frm_sn" onsubmit="return false;">
+    <input id="sn_fullname" name="sn_fullname" type="text" value="Họ tên" onBlur = "setDefaultValue(this,'Họ tên',true);" onfocus="formatText(this,'Họ tên');" tabindex="1001" />
+    <span class="sub-error" style="display:none" id="err_sn_fullname">Vui lòng nhập Họ tên</span>
+    <input id="sn_email" name="sn_email" type="text" value="Email" onBlur = "setDefaultValue(this,'Email',true);" onfocus="formatText(this,'Email');" tabindex="1002"/>
+    <span class="sub-error sub-err-bot" style="display:none" id="err_sn_email">Vui lòng nhập Email</span>
+    <input type="submit" value="Submit" onclick="checkFormSubcribe()" tabindex="1003"/>
+    </form>
+	<a class="close" href="javascript:void(0);" onclick="closeBlockUI();">Đóng</a>
+</div>
+<!--End Subscription Popup--><!--Non-member instruction pop up-->
+<div class="subscription-popup sub-popup-vi" id="thanks_non_member" style="display: none;">
+    <ul class="after-sub">
+        <li>Cảm ơn bạn đã đăng ký bản tin VietnamWorks.</li>
+        <li>Để hoàn tất, vui lòng đăng nhập vào email và kích hoạt.</li>
+        <li>Trong trường hợp không tìm thấy email kích hoạt trong Inbox, vui lòng kiểm tra hộp thư Spam/Bulk hoặc
+            <a href="http://www.vietnamworks.com/lien-he">liên hệ chúng tôi</a>
+            .
+        </li>
+    </ul>
+    <a class="close" href="javascript:void(0);" onclick="closeBlockUI();">Đóng</a>
+</div>
+<!--End Non-member instruction pop up--><!--Member instruction pop up-->
+<div class="subscription-popup sub-popup-vi" id="thanks_is_member" style="display: none;">
+    <ul class="after-sub">
+        <li>Chúc mừng bạn đã đăng ký thành công bản tin VietnamWorks.</li>
+        <li>Bí quyết tìm việc được công việc mơ ước, làm thế nào để thăng tiến trong sự nghiệp và những việc làm bạn quan tâm sẽ được gửi đến bạn hàng tuần.</li>
+        <li>Chúc bạn luôn thành công và may mắn!</li>
+    </ul>
+    <a class="close" href="javascript:void(0);" onclick="closeBlockUI();">Đóng</a>
+</div>
+<!-- End Pop Up -->
+<input type="hidden" id="username" value=""/>
+<input type="hidden" id="fullname" value=""/>
+<script type="text/javascript" src="/js/jquery/blockUI.js?version=1"></script>
+<script type="text/javascript">
+    function showDialogbox(){
+         if(blockUIClosing){
+            setTimeout("showMessage('dialogbox','',0,600,1,1,1,'','fixed');",500);
+         }else{
+            showMessage('dialogbox','',0,600,1,1,1,'','fixed');
+         }
+     }
+     function closeBlockUI(){
+         $("#messagebox").html('');
+         $.unblockUI();
+     }
+   function checkKeyword(){
+       var date = new Date();//"?time="+n/jobseekers/job_alert_create.php
+       var number = date.getTime();
+       datapost = {'m'		: 'checkkeyword', 'request_ajax':1};
+       $.ajax( {
+		type: "POST",
+		url:"/quan-ly-nghe-nghiep/thong-bao-viec-lam/tao-moi/?time="+number,
+		data:datapost,
+		dataType: "json",
+		success: function (data) {
+			if(data.error == 3){
+                            $('#alert_title').html("Thông báo");
+                            $('#alert_message').html("<h3>Bạn không được tạo quá 5 thông báo việc làm!</h3>");
+                            $('#button_div').html('<button style="line-height:1;padding: 5px;" type="button" class="subBtn" tabindex="16" onclick="closeBlockUI();"><span>Đóng</span></button>');
+                            showDialogbox();
+                        }else if(data.keyword == 0){
+                           window.location.href='/quan-ly-nghe-nghiep/thong-bao-viec-lam/tao-moi/?m=fromsearch';
+                        }else if(data.error ==4){
+                           window.location.href=data.redirect;
+                        }else{
+                            showDialogbox();
+                        }
+
+		},
+		beforeSend:function() {
+
+		}
+	} );
+   }
+
+   function createJobalert(){
+       var d = new Date();//"?time="+n/jobseekers/job_alert_create.php
+       var n = d.getTime();
+       datapost = {'m'		: 'fromsearch', 'request_ajax':1};
+	$.ajax( {
+		type: "POST",
+		url:"/quan-ly-nghe-nghiep/thong-bao-viec-lam/tao-moi/?time="+n,
+		data:datapost,
+		dataType: "json",
+		success: function (data) {
+			if(data.error == 0){
+                           /* $("#editjobalert_button").click(function() {
+                             window.location.href='/quan-ly-nghe-nghiep/thong-bao-viec-lam/cap-nhat/'+data.keyword_alias+'-'+data.jobalertid;
+                            });*/
+                            $("#link_jobalert").html('<span class="link-icon icon-email">Thông báo việc làm đã được cài đặt</span>')
+                             closeBlockUI();
+
+                        }else if(data.error==1){
+                             window.location.href='/quan-ly-nghe-nghiep/thong-bao-viec-lam/tao-moi/?m=fromsearch';
+                        }else if(data.error == 3){
+                            alert("Bạn không được tạo quá 5 email thông báo việc làm");
+                        }
+
+		},
+		beforeSend:function() {
+
+		}
+	} );
+
+   }
+</script>
+<script type="text/javascript">
+var frm_sn = document.frm_sn;
+function showDialogbox(){
+	if(blockUIClosing){
+		setTimeout("showMessage('subscription_popup','',0,710,1,1,1,'','absolute');",500);
+	}else{
+        showMessage('subscription_popup','',0,710,1,1,1,'','absolute');
+    }
+}
+function subcribeNewletter(){
+	if($('#username').val()!=''){
+		saveSubcribeNewletter($('#fullname').val(),$('#username').val());
+	}else{
+		$('#sn_fullname').val('Họ tên');
+		$('#sn_email').val('Email');
+		showDialogbox('subscription_popup');
+	}
+}
+function checkFormSubcribe(){
+	var has_error = false;
+    $('#err_sn_fullname').css('display','none');
+    if($('#sn_fullname').val() == "Họ tên"){
+        $('#err_sn_fullname').css('display','');has_error=true;
+    }else{
+        if(!checkRequired(frm_sn.sn_fullname))has_error = true;
+    }
+	if(!checkEmail(frm_sn.sn_email))has_error = true;
+	if (!has_error) {
+		saveSubcribeNewletter($('#sn_fullname').val(),$('#sn_email').val());
+	}else{
+		return false;
+	}
+}
+function saveSubcribeNewletter(fullname,email){
+	$.post("/jobseekers/save_visitor_newsletter.php",{
+		sn_fullname : fullname,
+		sn_email    : email
+	}, function(data) {
+        closeBlockUI();
+        if(data==1){
+            if(blockUIClosing){
+                setTimeout("showMessage('thanks_is_member','',0,710,1,1,1,'','absolute');",500);
+            }else{
+                showMessage('thanks_is_member','',0,710,1,1,1,'','absolute');
+            }
+        }else if(data==2 || data==3){
+            if(blockUIClosing){
+                setTimeout("showMessage('thanks_non_member','',0,710,1,1,1,'','absolute');",500);
+            }else{
+                showMessage('thanks_non_member','',0,710,1,1,1,'','absolute');
+            }
+        }
+	});
+}
+function setDefaultValue(obj,value,case_title){
+    if(obj.value==""){
+        obj.value = value;
+        $("#"+obj.name).addClass("hintText");
+    }else{
+        if(obj.value == value){
+            $("#"+obj.name).addClass("hintText");
+        }
+    }
+}
+function formatText(obj,value){
+    if(obj.value == value){
+        obj.value="";
+    }
+    $("#"+obj.name).removeClass("hintText");
+}
+
+function addJobAlertFromSearch(){
+    $('#frm_block_quick_search').attr('action', 'http://www.vietnamworks.com/quan-ly-nghe-nghiep/thong-bao-viec-lam');
+  $('<input>').attr({
+      type: 'hidden',
+      name: 'createFromSearch',
+      value: '1'
+  }).appendTo('#frm_block_quick_search');
+  $('#frm_block_quick_search').attr('method','POST');
+  $('#frm_block_quick_search').removeAttr('onsubmit');
+  $('#frm_block_quick_search').submit();
+}
+</script></section><!-- End .main-container-wrapper-->
+<footer class="footer-wrapper"> <span class="color-line"> <span class="blue-line"></span> <span class="orange-line"></span> </span>
+    <div class="container">
+        <div class="row">
+            <div class="span2">
+                <div class="item1">
+                    <h3>Về VietnamWorks</h3>
+                    <ul>
+                        <li> <a href="/ve-vietnamworks" title="Về VietnamWorks">Về VietnamWorks</a> </li>
+                        <li> <a href="/lien-he" title="Liên Hệ">Liên Hệ</a> </li>
+                        <li> <a href="/goc-bao-chi" title="Góc Báo Chí">Góc Báo Chí</a> </li>
+                        <li> <a href="/tro-giup/viec-lam" title="Trợ Giúp">Trợ Giúp</a> </li>
+                        <li> <a href="/thoa-thuan-su-dung" title="Thỏa Thuận Sử Dụng">Thỏa Thuận Sử Dụng</a> </li>
+                        <li> <a href="/quy-dinh-bao-mat" title="Quy Định Bảo Mật">Quy Định Bảo Mật</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="span2">
+                <div class="item2">
+                    <h3>Công Cụ</h3>
+                    <ul>
+                        <li> <a href="/quan-ly-nghe-nghiep/tai-khoan" title="Tài khoản">Tài Khoản</a> </li>
+                        <li> <a href="/quan-ly-nghe-nghiep" title="Hồ sơ của tôi">Hồ Sơ Của Tôi</a> </li>
+                        <li> <a href="/quan-ly-nghe-nghiep/viec-lam-cua-toi" title="Việc làm của tôi">Việc Làm Của Tôi</a> </li>
+                        <li> <a href="/quan-ly-nghe-nghiep/thong-bao-viec-lam" title="Thông báo việc làm">Thông Báo Việc Làm</a> </li>
+                        <li> <a href="/quan-ly-nghe-nghiep/phan-hoi-cua-nha-tuyen-dung" title="Phản hồi">Phản Hồi</a> </li>
+                        <li> <a href="http://advice.vietnamworks.com" title="Tư vấn nghề nghiệp" target="_blank">Tư Vấn Nghề Nghiệp</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="span2">
+                <div class="item3">
+                    <h3>Ứng Dụng Di Động</h3>
+                    <a href="http://itunes.apple.com/us/app/vietnamworks/id562506696?ls=1&mt=8" target="_blank">
+                        <img src="http://images.vietnamworks.com/img/jobseekers/logo_appstore.png" alt="App Store Logo"/>
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=com.vietnamworks.application" target="_blank">
+                        <img src="http://images.vietnamworks.com/img/jobseekers/logo_googleplay.png" alt="Google Play Logo"/>
+                    </a>
+                </div>
+            </div>
+            <div class="span6">
+                <div class="item4">
+                    <h3>Kết Nối Với VietnamWorks</h3>
+                    <a href="https://plus.google.com/118252118203170745432?prsrc=2">
+                        <img src="http://images.vietnamworks.com/img/jobseekers/icon-google.png" alt="Google"/>
+                    </a>
+                    <a href="https://www.facebook.com/VietnamWorksFanpage">
+                        <img src="http://images.vietnamworks.com/img/jobseekers/icon-facebook.png" alt="Facebook"/>
+                    </a>
+                    <p class="copyright">Copyright © Công Ty Cổ Phần Navigos Group Việt Nam<br/>
+                    Địa Chỉ: 130 Sương Nguyệt Ánh, P. Bến Thành<br/>
+                    Q.1, TP.HCM </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script type="text/javascript">
+    var APP_WEBROOT_JOBSEEKER = "http://www.vietnamworks.com/",
+        language = 1;
+</script>
+<script type="text/javascript"> var language = 1;</script>
+<script type="text/javascript">
+window.___gcfg = {lang: 'vi'};
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'http://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+var _gaq = _gaq || [];
+var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-103236-1']);
+  _gaq.push(['_setDomainName', 'vietnamworks.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+/* <![CDATA[ */
+var google_conversion_id = 1072665538;
+var google_conversion_label = "BRESCMD5mAMQwqe-_wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+function customEvent (uniqueName, action, label, value) {
+    if (_gaq) {
+        _gaq.push(['_trackEvent', uniqueName, action, label], value || 1); // 'Videos', 'Play', 'First Birthday'
+    }
+}
+</script>
+<!-- insert A/B test script -->
+<script src="//cdn.optimizely.com/js/282933906.js"></script>
+<!-- End A/B test -->
+
+<!-- insert Google Ads script -->
+ <script type="text/javascript">
+ /* <![CDATA[ */
+ var google_conversion_id = 1072665538;
+ var google_custom_params = window.google_tag_params;
+ var google_remarketing_only = true;
+ /* ]]> */
+ </script>
+ <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+ </script>
+ <noscript>
+ <div style="display:inline;">
+ <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072665538/?value=0&amp;guid=ON&amp;script=0"/>
+ </div>
+ </noscript>
+ <!--- End google Ads --->
+</body>
+</html><script type="text/javascript">
+customEvent('Jobseeker Category', 'Search', '0', null);
+customEvent('Jobseeker Location', 'Search', '0', null);
+customEvent('Jobseeker JobLevel', 'Search', '0', null);
+</script>"

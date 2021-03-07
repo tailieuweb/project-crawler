@@ -1,0 +1,71 @@
+
+body {
+	background:#F7F4E9 url(../img/body.png) repeat-x top center;
+        font:13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif
+}
+
+#content {
+	margin-right:auto;
+	margin-left:auto;
+	width:1000px;
+        background:#fff url(../images/gradient.png) repeat-x 0 28px;
+        background-position:0 1px;
+        padding:5px;
+        position:relative;
+	zoom:1;
+        border-top: 1px solid #eee;
+}
+#navigation a{
+	color:#fff;
+        text-decoration: none;
+       
+        
+}
+#navigation {
+	-moz-border-radius-bottomleft:10px;
+	margin:0 auto 10px auto;
+	padding:10px 30px;
+	width:950px;
+        background:#434A48;
+}
+#navigation a:hover {
+	background:#313230;
+        border-radius: 20px;
+}
+#navigation .active {
+	border-bottom:  2px solid brown;
+        height: 30px;
+        padding: 7px 0px;
+        background:#313230;
+        border-radius: 20px;
+}
+#navigation > li {
+	display:inline;
+	margin:0;
+        height: 30px;
+        padding-bottom:10px;
+}
+#head {
+	-moz-border-radius-topright:10px;
+	border:0;
+	margin:10px auto 0 auto;
+	padding:20px 30px;
+	width:950px;
+        background:#313230;
+        color:#fff;
+        
+}
+#navigation > li > a, #navigation > li > span {
+	display:inline-block;
+	padding:5px 15px;
+	text-decoration:none;
+        font-weight: bold;
+}
+
+#foot {
+	padding:5px 30px;
+	width:950px;
+	margin:10px auto;
+	text-align: center;
+}
+
