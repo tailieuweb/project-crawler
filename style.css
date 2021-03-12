@@ -1,0 +1,45 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#pattern_form {
+    margin: 30px auto;
+    border: 1px solid #007bff;
+    max-width: 450px;
+}
+#pattern_form .header-form{
+    background-color:#17a2b8;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+#pattern_form .header-form h1 {
+    margin: 5px 0;
+}
+#pattern_form .header-form p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+#pattern_form form {
+    box-sizing: border-box;
+    padding: 15px;
+}
+#pattern_form form input, #pattern_form form textarea, #pattern_form form #file_regular {
+    width: 100%;
+    border: 1px solid #ced4da;
+    padding: 10px 10px;
+    font-size: 15px;
+}
+#pattern_form #file_regular {
+    margin: 20px 0;
+}
+#pattern_form #btn-pattern {
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    color: #fff;
+    background: #17a2b8;
+    border: none;
+    margin-top: 10px;
+    padding: 11px 0;
+}

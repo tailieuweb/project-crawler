@@ -2,7 +2,7 @@ https://stackoverflow.com/tags
 
 1. get title: /grid--cell[\S\s]*?<a.*?post-tag.*?>(.*?)<\/a>/
 2. content short: /s-card[\S\s]*?<div.*?v-truncate4.*?>([\S\s]*?)<\/div>/
-3. count questions: /fc-black-400[\S\s]*?<div.*?grid--cell.*?>([\S\s]*?)<\/div>/
+3. count questions: /s-card[\S\s]*?<div.*?grid--cell.*?>([\S\s]*?)<\/div>/
 4. asked today: /title.*?last 24 hours.*?>(.*?)asked today<\/a>/
 5.this week: /title.*?last 7 days.*?>(.*?)this week<\/a>/ 
 6. link tag: /grid--cell[\S\s]*?<a href="(.*?)".*?post-tag/
