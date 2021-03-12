@@ -4,9 +4,17 @@
 
 
 if(isset($_POST['submit'])) {
+    $content = '';
     $pattern = $_POST['regularText'];
     $file = $_POST['regularFile'];
-    $content = file_get_contents($file);
+    $html = $_POST['regularHtml'];
+    if($file) {
+        $content = file_get_contents($file);
+    }
+    else {
+        $content = $html;
+    }
+    
     preg_match_all($pattern, $content, $out);
 }
 
@@ -29,7 +37,7 @@ if(isset($_POST['submit'])) {
         <form action="" method="POST" name="formRegular">
             <input type="text" name="regularText" id="" placeholder="Regular Expression">
             <input type="text" name="regularFile" id="file_regular" placeholder="Name file..">
-            <textarea name="" id="" cols="30" rows="10" placeholder="HTML.."></textarea>
+            <textarea name="regularHtml" id="" cols="30" rows="10" placeholder="HTML.."></textarea>
             <button id="btn-pattern" name="submit">Submit</button>
         </form>
         
